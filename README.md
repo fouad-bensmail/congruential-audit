@@ -15,6 +15,29 @@ representations, quadratic forms and 2-adic dynamics.
 - The measurement bench: `sg_crible.py`, `goldbach_crible.py`,
   `collatz_tronque.py`, `cousins_sexy_crible.py`, `triplets_crible.py`.
 
+## Wallet recovery services (owner-initiated only)
+
+Assistance for owners who have lost access to **their own** wallets:
+partial passwords, incomplete seed phrases, corrupted backups,
+weak-entropy or flawed-PRNG key generation.
+
+**Charter — five non-negotiable rules:**
+
+1. **Owner-initiated only.** I never contact wallet owners; every request
+   comes from the owner. Orphaned wallets are never touched.
+2. **Proof of ownership before any work.** The client provides what only
+   the owner can hold: the wallet file, a privately known seed fragment,
+   transaction history, or the original registration email.
+3. **Written agreement first.** Scope, fee, confidentiality and
+   *no success, no fee* terms are agreed in writing before any computation.
+4. **No custody, ever.** The recovered seed/key is handed back through an
+   encrypted channel; the owner sweeps the funds themselves.
+   I never hold anyone's funds.
+5. **Full transparency.** Verifiable identity (GitHub + Zenodo archives),
+   documented method, no upfront deposit of any kind.
+
+**Fee:** 15–20% of recovered value, payable after recovery.
+
 ## Research backbone (public archives)
 
 - *Note Universelle X — Le potentiel congruentiel unifié* :
@@ -28,7 +51,6 @@ representations, quadratic forms and 2-adic dynamics.
 Verified phenomenology, not proof. Every table regenerates with one command;
 every claim ships with its script.
 
-## Contact (audits & responsible disclosure)
+## Contact (audits, recovery & responsible disclosure)
 
 `fouad.bensmail.audit@proton.me`
-
