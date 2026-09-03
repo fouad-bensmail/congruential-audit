@@ -1,3 +1,4 @@
+Fouad Bensmail - ORCID: [0009-0006-9541-4207](https://orcid.org/0009-0006-9541-4207)
 # congruential-audit
 
 **Congruential sieve tools for cryptographic auditing & prime-pattern spectrometry.**
