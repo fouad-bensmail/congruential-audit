@@ -1,0 +1,16 @@
+[*] Sato-Tate — 9592 premiers p <= 100000
+courbe                    | n    | E[t] | E[t2] | E[t4] | E[t6] | frac(t=0)
+E1 sans CM (y2=x3-x+1)    | 9590|-0.002| 0.249| 0.123| 0.076| 0.004
+E2 CM Z[i] (y2=x3-x)      | 9591| 0.003| 0.250| 0.187| 0.156| 0.501
+E3 CM Z[w] (y2=x3+1)      | 9590| 0.002| 0.248| 0.185| 0.154| 0.501
+    theorie ST : E[t2]=0.250 E[t4]=0.125 E[t6]=0.078 frac0=0.000
+    theorie CM : E[t2]=0.250 E[t4]=0.188 E[t6]=0.156 frac0=0.500
+[hunt_log] trace ajoutee : sato-tate (9592 cles, 0 drapeau(x))
+[*] Cases vides de Mendeleïev — X = 10000000  (10.8 s)
+    S3  (p,p+2,p+6) = 2.85825
+    S3' (p,p+4,p+6) = 2.85825   <- case vide 1 : meme constante
+    S4  quadruplets = 4.15118
+    triplets A  :   8543  prediction   8592.5  ratio 0.9942
+    triplets B  :   8677  prediction   8592.5  ratio 1.0098
+    quadruplets :    899  prediction    866.4  ratio 1.0376
+[hunt_log] trace ajoutee : mendeleev-vides (10000000 cles, 0 drapeau(x))

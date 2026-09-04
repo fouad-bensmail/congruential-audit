@@ -166,5 +166,21 @@
     "n_keys": 3000000,
     "flags": 0,
     "notes": "A=3273 B=3384 Q=397"
+  },
+  {
+    "date": "2026-09-04T09:33:25+00:00",
+    "domain": "sato-tate",
+    "scanner": "sato_tate",
+    "n_keys": 9592,
+    "flags": 0,
+    "notes": "X=100000"
+  },
+  {
+    "date": "2026-09-04T09:33:36+00:00",
+    "domain": "mendeleev-vides",
+    "scanner": "mendeleev",
+    "n_keys": 10000000,
+    "flags": 0,
+    "notes": "A=8543 B=8677 Q=899"
   }
 ]
