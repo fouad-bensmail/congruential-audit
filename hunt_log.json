@@ -118,5 +118,21 @@
     "n_keys": 315,
     "flags": 0,
     "notes": "budget=20000"
+  },
+  {
+    "date": "2026-09-04T07:34:58+00:00",
+    "domain": "sato-tate",
+    "scanner": "sato_tate",
+    "n_keys": 1229,
+    "flags": 0,
+    "notes": "X=10000"
+  },
+  {
+    "date": "2026-09-04T07:45:37+00:00",
+    "domain": "sato-tate",
+    "scanner": "sato_tate",
+    "n_keys": 3245,
+    "flags": 0,
+    "notes": "X=30000"
   }
 ]
