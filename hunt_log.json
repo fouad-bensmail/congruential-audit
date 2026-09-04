@@ -134,5 +134,37 @@
     "n_keys": 3245,
     "flags": 0,
     "notes": "X=30000"
+  },
+  {
+    "date": "2026-09-04T08:07:52+00:00",
+    "domain": "mendeleev-vides",
+    "scanner": "mendeleev",
+    "n_keys": 1000000,
+    "flags": 0,
+    "notes": "A=1393 B=1444 Q=166"
+  },
+  {
+    "date": "2026-09-04T08:08:48+00:00",
+    "domain": "mendeleev-vides",
+    "scanner": "mendeleev",
+    "n_keys": 1000000,
+    "flags": 0,
+    "notes": "A=1393 B=1444 Q=166"
+  },
+  {
+    "date": "2026-09-04T08:16:32+00:00",
+    "domain": "mendeleev-vides",
+    "scanner": "mendeleev",
+    "n_keys": 1000000,
+    "flags": 0,
+    "notes": "A=1393 B=1444 Q=166"
+  },
+  {
+    "date": "2026-09-04T08:31:07+00:00",
+    "domain": "mendeleev-vides",
+    "scanner": "mendeleev",
+    "n_keys": 3000000,
+    "flags": 0,
+    "notes": "A=3273 B=3384 Q=397"
   }
 ]
