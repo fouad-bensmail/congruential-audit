@@ -1,0 +1,11 @@
+# Cibles de recherche cryptographique — clefs publiques uniquement
+proton.me
+signal.org
+wire.com
+threema.ch
+keybase.io
+tuta.com
+mailfence.com
+posteo.de
+mailbox.org
+infomaniak.com

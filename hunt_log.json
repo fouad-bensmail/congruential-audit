@@ -14,5 +14,101 @@
     "n_keys": 40,
     "flags": 0,
     "notes": ""
+  },
+  {
+    "date": "2026-09-04T04:57:03+00:00",
+    "domain": "signal.org",
+    "scanner": "corpus",
+    "n_keys": 5,
+    "flags": 0,
+    "notes": "limite=5, total_corpus=45"
+  },
+  {
+    "date": "2026-09-04T05:10:41+00:00",
+    "domain": "proton.me",
+    "scanner": "corpus",
+    "n_keys": 30,
+    "flags": 0,
+    "notes": "limite=30, total_corpus=75"
+  },
+  {
+    "date": "2026-09-04T05:17:22+00:00",
+    "domain": "signal.org",
+    "scanner": "corpus",
+    "n_keys": 30,
+    "flags": 0,
+    "notes": "limite=30, total_corpus=105"
+  },
+  {
+    "date": "2026-09-04T05:25:01+00:00",
+    "domain": "wire.com",
+    "scanner": "corpus",
+    "n_keys": 30,
+    "flags": 0,
+    "notes": "limite=30, total_corpus=135"
+  },
+  {
+    "date": "2026-09-04T05:31:18+00:00",
+    "domain": "threema.ch",
+    "scanner": "corpus",
+    "n_keys": 30,
+    "flags": 0,
+    "notes": "limite=30, total_corpus=165"
+  },
+  {
+    "date": "2026-09-04T05:37:32+00:00",
+    "domain": "keybase.io",
+    "scanner": "corpus",
+    "n_keys": 30,
+    "flags": 0,
+    "notes": "limite=30, total_corpus=195"
+  },
+  {
+    "date": "2026-09-04T05:49:47+00:00",
+    "domain": "tuta.com",
+    "scanner": "corpus",
+    "n_keys": 0,
+    "flags": 0,
+    "notes": "limite=30, total_corpus=195"
+  },
+  {
+    "date": "2026-09-04T06:01:08+00:00",
+    "domain": "mailfence.com",
+    "scanner": "corpus",
+    "n_keys": 30,
+    "flags": 0,
+    "notes": "limite=30, total_corpus=225"
+  },
+  {
+    "date": "2026-09-04T06:08:10+00:00",
+    "domain": "posteo.de",
+    "scanner": "corpus",
+    "n_keys": 30,
+    "flags": 0,
+    "notes": "limite=30, total_corpus=255"
+  },
+  {
+    "date": "2026-09-04T06:14:31+00:00",
+    "domain": "mailbox.org",
+    "scanner": "corpus",
+    "n_keys": 30,
+    "flags": 0,
+    "notes": "limite=30, total_corpus=285"
+  },
+  {
+    "date": "2026-09-04T06:20:44+00:00",
+    "domain": "infomaniak.com",
+    "scanner": "corpus",
+    "n_keys": 30,
+    "flags": 0,
+    "notes": "limite=30, total_corpus=315"
+  },
+  {
+    "date": "2026-09-04T06:33:02+00:00",
+    "domain": "lot-global",
+    "scanner": "roca",
+    "n_keys": 315,
+    "flags": 0,
+    "notes": ""
   }
 ]
