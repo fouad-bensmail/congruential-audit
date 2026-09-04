@@ -270,5 +270,21 @@
     "n_keys": 117,
     "flags": 0,
     "notes": ""
+  },
+  {
+    "date": "2026-09-04T11:23:49+00:00",
+    "domain": "cunningham",
+    "scanner": "cunningham",
+    "n_keys": 1000000,
+    "flags": 0,
+    "notes": "L2=7746/7811; L3=1187/1224; L4=159/166"
+  },
+  {
+    "date": "2026-09-04T11:24:54+00:00",
+    "domain": "fermat-tronque",
+    "scanner": "fermat_tronque",
+    "n_keys": 10000000,
+    "flags": 0,
+    "notes": "ratio=1.0243"
   }
 ]
