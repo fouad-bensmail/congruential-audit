@@ -182,5 +182,93 @@
     "n_keys": 10000000,
     "flags": 0,
     "notes": "A=8543 B=8677 Q=899"
+  },
+  {
+    "date": "2026-09-04T10:30:37+00:00",
+    "domain": "proton.me",
+    "scanner": "fenetre-roca",
+    "n_keys": 0,
+    "flags": 0,
+    "notes": "fenetre=2016-2017"
+  },
+  {
+    "date": "2026-09-04T10:32:04+00:00",
+    "domain": "signal.org",
+    "scanner": "fenetre-roca",
+    "n_keys": 12,
+    "flags": 0,
+    "notes": "fenetre=2016-2017"
+  },
+  {
+    "date": "2026-09-04T10:35:28+00:00",
+    "domain": "wire.com",
+    "scanner": "fenetre-roca",
+    "n_keys": 16,
+    "flags": 0,
+    "notes": "fenetre=2016-2017"
+  },
+  {
+    "date": "2026-09-04T10:36:53+00:00",
+    "domain": "threema.ch",
+    "scanner": "fenetre-roca",
+    "n_keys": 6,
+    "flags": 0,
+    "notes": "fenetre=2016-2017"
+  },
+  {
+    "date": "2026-09-04T10:40:46+00:00",
+    "domain": "keybase.io",
+    "scanner": "fenetre-roca",
+    "n_keys": 17,
+    "flags": 0,
+    "notes": "fenetre=2016-2017"
+  },
+  {
+    "date": "2026-09-04T10:40:47+00:00",
+    "domain": "tuta.com",
+    "scanner": "fenetre-roca",
+    "n_keys": 0,
+    "flags": 0,
+    "notes": "fenetre=2016-2017"
+  },
+  {
+    "date": "2026-09-04T10:41:18+00:00",
+    "domain": "mailfence.com",
+    "scanner": "fenetre-roca",
+    "n_keys": 2,
+    "flags": 0,
+    "notes": "fenetre=2016-2017"
+  },
+  {
+    "date": "2026-09-04T10:43:55+00:00",
+    "domain": "posteo.de",
+    "scanner": "fenetre-roca",
+    "n_keys": 13,
+    "flags": 0,
+    "notes": "fenetre=2016-2017"
+  },
+  {
+    "date": "2026-09-04T10:44:43+00:00",
+    "domain": "mailbox.org",
+    "scanner": "fenetre-roca",
+    "n_keys": 3,
+    "flags": 0,
+    "notes": "fenetre=2016-2017"
+  },
+  {
+    "date": "2026-09-04T10:54:58+00:00",
+    "domain": "infomaniak.com",
+    "scanner": "fenetre-roca",
+    "n_keys": 50,
+    "flags": 0,
+    "notes": "fenetre=2016-2017"
+  },
+  {
+    "date": "2026-09-04T10:54:58+00:00",
+    "domain": "fenetre-roca-global",
+    "scanner": "fenetre-roca",
+    "n_keys": 117,
+    "flags": 0,
+    "notes": ""
   }
 ]
