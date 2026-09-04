@@ -110,5 +110,13 @@
     "n_keys": 315,
     "flags": 0,
     "notes": ""
+  },
+  {
+    "date": "2026-09-04T06:59:30+00:00",
+    "domain": "corpus-fermat",
+    "scanner": "fermat",
+    "n_keys": 315,
+    "flags": 0,
+    "notes": "budget=20000"
   }
 ]
