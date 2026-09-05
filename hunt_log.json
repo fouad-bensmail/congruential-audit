@@ -286,5 +286,61 @@
     "n_keys": 10000000,
     "flags": 0,
     "notes": "ratio=1.0243"
+  },
+  {
+    "date": "2026-09-05T01:33:52+00:00",
+    "domain": "mendeleev-vides",
+    "scanner": "mendeleev",
+    "n_keys": 1000000,
+    "flags": 0,
+    "notes": "A=1393 B=1444 Q=166"
+  },
+  {
+    "date": "2026-09-05T03:56:07+00:00",
+    "domain": "proton.me",
+    "scanner": "chasse-nuit",
+    "n_keys": 300,
+    "flags": 0,
+    "notes": ""
+  },
+  {
+    "date": "2026-09-05T04:56:36+00:00",
+    "domain": "signal.org",
+    "scanner": "chasse-nuit",
+    "n_keys": 300,
+    "flags": 0,
+    "notes": ""
+  },
+  {
+    "date": "2026-09-05T05:56:39+00:00",
+    "domain": "wire.com",
+    "scanner": "chasse-nuit",
+    "n_keys": 300,
+    "flags": 0,
+    "notes": ""
+  },
+  {
+    "date": "2026-09-05T07:03:24+00:00",
+    "domain": "mendeleev-vides",
+    "scanner": "mendeleev",
+    "n_keys": 100000000,
+    "flags": 0,
+    "notes": "A=55600 B=55556 Q=4768"
+  },
+  {
+    "date": "2026-09-05T07:05:43+00:00",
+    "domain": "cunningham",
+    "scanner": "cunningham",
+    "n_keys": 10000000,
+    "flags": 0,
+    "notes": "L2=56032/56128; L3=7476/7490; L4=892/865"
+  },
+  {
+    "date": "2026-09-05T07:07:08+00:00",
+    "domain": "fermat-tronque",
+    "scanner": "fermat_tronque",
+    "n_keys": 100000000,
+    "flags": 0,
+    "notes": "ratio=1.0130"
   }
 ]
