@@ -342,5 +342,69 @@
     "n_keys": 100000000,
     "flags": 0,
     "notes": "ratio=1.0130"
+  },
+  {
+    "date": "2026-09-05T08:40:20+00:00",
+    "domain": "threema.ch",
+    "scanner": "chasse-nuit",
+    "n_keys": 300,
+    "flags": 0,
+    "notes": ""
+  },
+  {
+    "date": "2026-09-05T09:04:28+00:00",
+    "domain": "keybase.io",
+    "scanner": "chasse-nuit",
+    "n_keys": 132,
+    "flags": 0,
+    "notes": ""
+  },
+  {
+    "date": "2026-09-05T10:01:01+00:00",
+    "domain": "tuta.com",
+    "scanner": "chasse-nuit",
+    "n_keys": 300,
+    "flags": 0,
+    "notes": ""
+  },
+  {
+    "date": "2026-09-05T10:25:38+00:00",
+    "domain": "mailfence.com",
+    "scanner": "chasse-nuit",
+    "n_keys": 134,
+    "flags": 0,
+    "notes": ""
+  },
+  {
+    "date": "2026-09-05T11:05:07+00:00",
+    "domain": "posteo.de",
+    "scanner": "chasse-nuit",
+    "n_keys": 206,
+    "flags": 0,
+    "notes": ""
+  },
+  {
+    "date": "2026-09-05T11:59:27+00:00",
+    "domain": "mailbox.org",
+    "scanner": "chasse-nuit",
+    "n_keys": 300,
+    "flags": 0,
+    "notes": ""
+  },
+  {
+    "date": "2026-09-05T12:55:19+00:00",
+    "domain": "infomaniak.com",
+    "scanner": "chasse-nuit",
+    "n_keys": 300,
+    "flags": 0,
+    "notes": ""
+  },
+  {
+    "date": "2026-09-05T12:55:19+00:00",
+    "domain": "chasse-nuit-global",
+    "scanner": "chasse-nuit",
+    "n_keys": 996,
+    "flags": 0,
+    "notes": ""
   }
 ]
