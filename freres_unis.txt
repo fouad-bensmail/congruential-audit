@@ -1,0 +1,29 @@
+[VI] Sato-Tate modulo l — E1: y^2=x^3-x+1, X=30000, n=3243
+ l=2 predic=0.66667 mesure=0.66451 ratio=0.9968
+ l=3 predic=0.37500 mesure=0.37219 ratio=0.9925
+ l=5 predic=0.20833 mesure=0.21431 ratio=1.0287
+ l=7 predic=0.14583 mesure=0.14431 ratio=0.9896
+
+[VII] Collatz — Prop 4.1 en masse + marche, X=1000000
+ k=1 forme close=   9 verifies=   9 accord=OUI
+ k=2 forme close=   3 verifies=   3 accord=OUI
+ k=3 forme close=   1 verifies=   1 accord=OUI
+ k=4 forme close=   0 verifies=   0 accord=OUI
+ k=5 forme close=   0 verifies=   0 accord=OUI
+ k=6 forme close=   0 verifies=   0 accord=OUI
+ marche : moy k/ln n = 3.5749 (heuristique 3.4761)
+ marche : moy sigma/ln n = 10.6981 (heuristique 10.428)
+
+[VIII] lissite de p-1 contre Dickman — X=1000000, n=78496 (heuristique)
+ u=2 rho=0.30685 mesure=0.36817 ratio=1.1998
+ u=3 rho=0.04861 mesure=0.08464 ratio=1.7412
+ u=4 rho=0.00497 mesure=0.02009 ratio=4.0423
+
+[IX] CM Z[w] — E3: y^2=x^3+1, premiers decomposes p=1 mod 3, X=30000, n=1610
+ E[t2] = 0.49776 (demi-cercle 0.25000) ratio 1.9910
+ E[t4] = 0.37215 (demi-cercle 0.12500) ratio 2.9772
+ E[t6] = 0.30937 (demi-cercle 0.07812) ratio 3.9599
+ frac(t=0) chez les decomposes = 0.00000 (attendu ~0)
+
+[OK] Les quatre freres en 15.9 s.
+[hunt_log] trace ajoutee : freres-unis (0 cles, 0 drapeau(x))
