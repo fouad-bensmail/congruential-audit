@@ -47,8 +47,8 @@ weak-entropy or flawed-PRNG key generation.
   [10.5281/zenodo.22204698](https://doi.org/10.5281/zenodo.22204698) (v3)
 - *Le Crible Congruentiel — Cahier de mesures expérimentales* :
   concept DOI [10.5281/zenodo.22314057](https://doi.org/10.5281/zenodo.22314057) -
-  v4, Addendum X (10 sept. 2026, label Zenodo v5) :
-  [10.5281/zenodo.22694875](https://doi.org/10.5281/zenodo.22694875)
+  v5, Addendum X.4 (11 sept. 2026, label Zenodo v6) :
+  [10.5281/zenodo.22702536](https://doi.org/10.5281/zenodo.22702536)
 - *Vers une théorie expérimentale des potentiels congruentiels — le cadre* :
   v1 : [10.5281/zenodo.22691824](https://doi.org/10.5281/zenodo.22691824) -
   v3 restauré (11 sept. 2026) : [10.5281/zenodo.22700632](https://doi.org/10.5281/zenodo.22700632).
@@ -59,10 +59,6 @@ weak-entropy or flawed-PRNG key generation.
   HAL n'acceptant pas les dépôts de chercheurs indépendants non docteurs
   (politique CCSD, sept. 2026), les travaux suivants vivent sur Zenodo :
   c'est notre archive de référence, et elle suffit.
-  v5/v6, https://doi.org/10.5281/zenodo.22702536
-
-## Positioning
-
 Verified phenomenology, not proof. Every table regenerates with one command;
 every claim ships with its script.
 
