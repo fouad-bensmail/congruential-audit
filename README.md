@@ -59,6 +59,7 @@ weak-entropy or flawed-PRNG key generation.
   HAL n'acceptant pas les dépôts de chercheurs indépendants non docteurs
   (politique CCSD, sept. 2026), les travaux suivants vivent sur Zenodo :
   c'est notre archive de référence, et elle suffit.
+  v5/v6, https://doi.org/10.5281/zenodo.22702536
 
 ## Positioning
 
