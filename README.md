@@ -42,10 +42,23 @@ weak-entropy or flawed-PRNG key generation.
 ## Research backbone (public archives)
 
 - *Note Universelle X — Le potentiel congruentiel unifié* :
-  DOI [10.5281/zenodo.22190260](https://doi.org/10.5281/zenodo.22190260) (v1) ·
-  [10.5281/zenodo.22200635](https://doi.org/10.5281/zenodo.22200635) (v2) ·
+  DOI [10.5281/zenodo.22190260](https://doi.org/10.5281/zenodo.22190260) (v1) -
+  [10.5281/zenodo.22200635](https://doi.org/10.5281/zenodo.22200635) (v2) -
   [10.5281/zenodo.22204698](https://doi.org/10.5281/zenodo.22204698) (v3)
-- HAL : [hal-05731921](https://hal.science/hal-05731921)
+- *Le Crible Congruentiel — Cahier de mesures expérimentales* :
+  concept DOI [10.5281/zenodo.22314057](https://doi.org/10.5281/zenodo.22314057) -
+  v4, Addendum X (10 sept. 2026, label Zenodo v5) :
+  [10.5281/zenodo.22694875](https://doi.org/10.5281/zenodo.22694875)
+- *Vers une théorie expérimentale des potentiels congruentiels — le cadre* :
+  v1 : [10.5281/zenodo.22691824](https://doi.org/10.5281/zenodo.22691824) -
+  v3 restauré (11 sept. 2026) : [10.5281/zenodo.22700632](https://doi.org/10.5281/zenodo.22700632).
+  La v2 ([10.5281/zenodo.22693861](https://doi.org/10.5281/zenodo.22693861)),
+  publiée par erreur avec les fichiers du cahier, est en demande de tombale ;
+  la note de correction figure dans la description de la v3.
+- HAL : [hal-05731921](https://hal.science/hal-05731921) (Note X).
+  HAL n'acceptant pas les dépôts de chercheurs indépendants non docteurs
+  (politique CCSD, sept. 2026), les travaux suivants vivent sur Zenodo :
+  c'est notre archive de référence, et elle suffit.
 
 ## Positioning
 

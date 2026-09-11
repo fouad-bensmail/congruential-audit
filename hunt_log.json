@@ -478,5 +478,21 @@
     "n_keys": 0,
     "flags": 0,
     "notes": "l2:0.9968 l3:0.9925 l5:1.0287 l7:0.9896 k1:9/9 k2:3/3 k3:1/1 k4:0/0 k5:0/0 k6:0/0 marche:3.5749/10.6981 u2:1.1998 u3:1.7412 u4:4.0423 t2:1.9910 t4:2.9772 t6:3.9599 zero:0.0000"
+  },
+  {
+    "date": "2026-09-10T14:37:10+00:00",
+    "domain": "lissite-corrigee",
+    "scanner": "lissite_corrigee",
+    "n_keys": 1000000,
+    "flags": 0,
+    "notes": "u2:0.9994 u3:0.9973 u4:0.9939"
+  },
+  {
+    "date": "2026-09-10T14:38:29+00:00",
+    "domain": "lissite-corrigee",
+    "scanner": "lissite_corrigee",
+    "n_keys": 1000000,
+    "flags": 0,
+    "notes": "u2:0.9994 u3:0.9973 u4:0.9939"
   }
 ]
