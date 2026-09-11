@@ -494,5 +494,13 @@
     "n_keys": 1000000,
     "flags": 0,
     "notes": "u2:0.9994 u3:0.9973 u4:0.9939"
+  },
+  {
+    "date": "2026-09-11T08:01:27+00:00",
+    "domain": "fermat-fluctuation",
+    "scanner": "fermat_fluctuation",
+    "n_keys": 25,
+    "flags": 0,
+    "notes": "T/pred:1.0009 accel*f:0.9813"
   }
 ]
