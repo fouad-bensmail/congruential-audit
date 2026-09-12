@@ -502,5 +502,61 @@
     "n_keys": 25,
     "flags": 0,
     "notes": "T/pred:1.0009 accel*f:0.9813"
+  },
+  {
+    "date": "2026-09-11T16:11:48+00:00",
+    "domain": "microscope-haut",
+    "scanner": "microscope_haut",
+    "n_keys": 41,
+    "flags": 0,
+    "notes": "X:100000000 beta:0.5967+/-0.0200 pics:41"
+  },
+  {
+    "date": "2026-09-11T16:13:26+00:00",
+    "domain": "microscope-haut",
+    "scanner": "microscope_haut",
+    "n_keys": 87,
+    "flags": 0,
+    "notes": "X:100000000 beta:0.5967+/-0.0200 pics:87"
+  },
+  {
+    "date": "2026-09-11T16:29:55+00:00",
+    "domain": "microscope-haut",
+    "scanner": "microscope_haut_v3.1",
+    "n_keys": 41,
+    "flags": 0,
+    "notes": "X:100000000 beta:0.5031+/-0.0077 pics:41"
+  },
+  {
+    "date": "2026-09-11T17:14:15+00:00",
+    "domain": "microscope-haut",
+    "scanner": "microscope_haut_v3.2",
+    "n_keys": 0,
+    "flags": 0,
+    "notes": "X:100000000 beta:0.5031+/-0.0077 horizon:0.0 apparies:0 nus:0"
+  },
+  {
+    "date": "2026-09-11T17:15:34+00:00",
+    "domain": "microscope-haut",
+    "scanner": "microscope_haut_v3.2",
+    "n_keys": 0,
+    "flags": 0,
+    "notes": "X:100000000 beta:0.5031+/-0.0077 horizon:0.0 apparies:0 nus:0"
+  },
+  {
+    "date": "2026-09-11T17:25:49+00:00",
+    "domain": "microscope-haut",
+    "scanner": "microscope_haut_v3.3",
+    "n_keys": 5,
+    "flags": 0,
+    "notes": "X:100000000 beta:0.5031+/-0.0077 horizon:32.9 apparies:5 nus:0"
+  },
+  {
+    "date": "2026-09-11T17:33:00+00:00",
+    "domain": "microscope-haut",
+    "scanner": "microscope_haut_v3.4",
+    "n_keys": 20,
+    "flags": 0,
+    "notes": "X:100000000 beta:0.5031+/-0.0077 horizon:77.1 apparies:20 nus:0"
   }
 ]
