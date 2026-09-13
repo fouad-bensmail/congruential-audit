@@ -558,5 +558,21 @@
     "n_keys": 20,
     "flags": 0,
     "notes": "X:100000000 beta:0.5031+/-0.0077 horizon:77.1 apparies:20 nus:0"
+  },
+  {
+    "date": "2026-09-12T21:35:37+00:00",
+    "domain": "obstruction-parite",
+    "scanner": "obstruction_parite",
+    "n_keys": 8,
+    "flags": 0,
+    "notes": "X:1000000 Q:1000 sigma-ok:8/8 v2:3.00/1.00"
+  },
+  {
+    "date": "2026-09-12T21:36:53+00:00",
+    "domain": "obstruction-parite",
+    "scanner": "obstruction_parite",
+    "n_keys": 8,
+    "flags": 0,
+    "notes": "X:10000000 Q:3162 sigma-ok:8/8 v2:3.00/1.00"
   }
 ]

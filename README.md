@@ -61,7 +61,10 @@ weak-entropy or flawed-PRNG key generation.
 - v6 (11 sept. 2026, label Zenodo v7)
 - Cadre v3 (12 sept. 2026, label Zenodo v5) : DOI [collez-le ici] — table de
   Riemann (proportion 2026 prouvée ; RH conjecture), Remarque 5.4 (microscope
-  spectral), état de l'art sept. 2026. 
+  spectral), état de l'art sept. 2026.
+- Cadre v4 (13 sept. 2026, label Zenodo v6) : DOI [collez-le ici] —
+  Observation 4.9 (signature de parité, deux échelles), statut
+  « conjecture corrigée » dans la table des quatre statuts. 
 - HAL : [hal-05731921](https://hal.science/hal-05731921) (Note X).
   HAL n'acceptant pas les dépôts de chercheurs indépendants non docteurs
   (politique CCSD, sept. 2026), les travaux suivants vivent sur Zenodo :
