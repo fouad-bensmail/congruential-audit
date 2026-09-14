@@ -574,5 +574,93 @@
     "n_keys": 8,
     "flags": 0,
     "notes": "X:10000000 Q:3162 sigma-ok:8/8 v2:3.00/1.00"
+  },
+  {
+    "date": "2026-09-13T06:32:07+00:00",
+    "domain": "groupe-translations",
+    "scanner": "groupe_translations",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "X:10000000 P:1000000 garde:6.6e-06 r41:0.9939 r61:1.9872"
+  },
+  {
+    "date": "2026-09-13T06:36:06+00:00",
+    "domain": "tamagawa-local",
+    "scanner": "tamagawa_local",
+    "n_keys": 0,
+    "flags": 1,
+    "notes": "X:10000000 garde:1.7e+00 crt-worst:7.1e-07"
+  },
+  {
+    "date": "2026-09-13T06:42:22+00:00",
+    "domain": "groupe-translations",
+    "scanner": "groupe_translations",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "X:100000000 P:1000000 garde:6.6e-06 r41:0.9999 r61:1.9984"
+  },
+  {
+    "date": "2026-09-13T07:01:02+00:00",
+    "domain": "tamagawa-local",
+    "scanner": "tamagawa_local",
+    "n_keys": 3,
+    "flags": 0,
+    "notes": "X:10000000 garde:1.2e-07 crt-worst:7.1e-07"
+  },
+  {
+    "date": "2026-09-13T21:36:58+00:00",
+    "domain": "caractere-dilatations",
+    "scanner": "caractere_dilatations",
+    "n_keys": 3,
+    "flags": 0,
+    "notes": "P:1000000 chi:4.4e-14 mult:0.0e+00 sq:0.0e+00"
+  },
+  {
+    "date": "2026-09-14T17:41:19+00:00",
+    "domain": "obstruction-mod3",
+    "scanner": "obstruction_mod3",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "v3:1.500/0.0 sig:4/4 contr:9.9"
+  },
+  {
+    "date": "2026-09-14T18:01:41+00:00",
+    "domain": "obstruction-mod12",
+    "scanner": "obstruction_mod12",
+    "n_keys": 0,
+    "flags": 1,
+    "notes": "ord:16/16 mul:16/16 contr:1.17"
+  },
+  {
+    "date": "2026-09-14T18:14:56+00:00",
+    "domain": "obstruction-mod12",
+    "scanner": "obstruction_mod12",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "ord:16/16 mul:16/16 contr:1.17"
+  },
+  {
+    "date": "2026-09-14T18:38:33+00:00",
+    "domain": "obstruction-mod3-mrule",
+    "scanner": "obstruction_mod3",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "m-rule anchor:True v3:1.500/0.0 sig:4/4 contr:1.18"
+  },
+  {
+    "date": "2026-09-14T18:41:16+00:00",
+    "domain": "obstruction-mod12-mrule",
+    "scanner": "obstruction_mod12",
+    "n_keys": 0,
+    "flags": 1,
+    "notes": "m-rule anchor:True ord:16/16 mul:16/13 contr:1.18"
+  },
+  {
+    "date": "2026-09-14T18:59:06+00:00",
+    "domain": "terme-croise",
+    "scanner": "terme_croise",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "rho:True add:True sig:True contr:1.22"
   }
 ]

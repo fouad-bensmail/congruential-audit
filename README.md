@@ -64,7 +64,11 @@ weak-entropy or flawed-PRNG key generation.
   spectral), état de l'art sept. 2026.
 - Cadre v4 (13 sept. 2026, label Zenodo v6) : DOI [collez-le ici] —
   Observation 4.9 (signature de parité, deux échelles), statut
-  « conjecture corrigée » dans la table des quatre statuts. 
+  « conjecture corrigée » dans la table des quatre statuts.
+- Cahier v9 (15 sept. 2026, label Zenodo v9) : DOI 10.5281/zenodo.22757396 —
+  Addenda XII–XVII : isométries et homothéties des motifs, volumes de Tamagawa
+  et CRT mesuré, caractère des dilatations, échelle mod 3 / mod 12, terme
+  croisé et courbure de Dickman ; loi de composition close au premier ordre. 
 - HAL : [hal-05731921](https://hal.science/hal-05731921) (Note X).
   HAL n'acceptant pas les dépôts de chercheurs indépendants non docteurs
   (politique CCSD, sept. 2026), les travaux suivants vivent sur Zenodo :
