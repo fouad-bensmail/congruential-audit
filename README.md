@@ -69,6 +69,13 @@ weak-entropy or flawed-PRNG key generation.
   Addenda XII–XVII : isométries et homothéties des motifs, volumes de Tamagawa
   et CRT mesuré, caractère des dilatations, échelle mod 3 / mod 12, terme
   croisé et courbure de Dickman ; loi de composition close au premier ordre. 
+## Soumission académique
+- **Manuscrit** : "Weighing the obstruction: the smoothness of p-1, its parity signature, and a measured Tamagawa reconstruction of the twin-prime constant"
+- **Revue** : *Experimental Mathematics* (Taylor & Francis)
+- **Statut** : Soumis le 15 septembre 2026
+- **Submission ID** : 263532965
+- **Preprint (Zenodo)** : 10.5281/zenodo.22758846
+- **Cahier de laboratoire (v9)** : 10.5281/zenodo.22757396
 - HAL : [hal-05731921](https://hal.science/hal-05731921) (Note X).
   HAL n'acceptant pas les dépôts de chercheurs indépendants non docteurs
   (politique CCSD, sept. 2026), les travaux suivants vivent sur Zenodo :
