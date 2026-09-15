@@ -68,7 +68,13 @@ weak-entropy or flawed-PRNG key generation.
 - Cahier v9 (15 sept. 2026, label Zenodo v9) : DOI 10.5281/zenodo.22757396 —
   Addenda XII–XVII : isométries et homothéties des motifs, volumes de Tamagawa
   et CRT mesuré, caractère des dilatations, échelle mod 3 / mod 12, terme
-  croisé et courbure de Dickman ; loi de composition close au premier ordre. 
+  croisé et courbure de Dickman ; loi de composition close au premier ordre.
+- Cahier v10 (14 sept. 2026) : DOI 10.5281/zenodo.22758370 —
+  Addenda XII–XVIII (preuves inconditionnelles T1–T4 + conjecture C1 déclarée).
+- Cahier v11 (15 sept. 2026, label Zenodo v11) : Version v11 : DOI 10.5281/zenodo.22764582
+  Addenda XII–XX. Nouveautés v11 : XIX (marges_classes : retombée crypto,
+  +159%/-90% à u=5), XX (collatz_conditionne : résultat négatif publié,
+  la grille 2×3 ne descend pas dans Collatz). 
 ## Soumission académique
 - **Manuscrit** : "Weighing the obstruction: the smoothness of p-1, its parity signature, and a measured Tamagawa reconstruction of the twin-prime constant"
 - **Revue** : *Experimental Mathematics* (Taylor & Francis)
