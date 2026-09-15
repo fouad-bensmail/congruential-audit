@@ -74,7 +74,9 @@ weak-entropy or flawed-PRNG key generation.
 - Cahier v11 (15 sept. 2026, label Zenodo v11) : Version v11 : DOI 10.5281/zenodo.22764582
   Addenda XII–XX. Nouveautés v11 : XIX (marges_classes : retombée crypto,
   +159%/-90% à u=5), XX (collatz_conditionne : résultat négatif publié,
-  la grille 2×3 ne descend pas dans Collatz). 
+  la grille 2×3 ne descend pas dans Collatz).
+- Cahier v12 (15 sept. 2026) : DOI [10.5281/zenodo.22765398](https://zenodo.org/doi/10.5281/zenodo.22765398)
+  - Addenda XII–XXI. Nouveauté v12 : Addendum XXI (script maître `reproduce_all.py`, AUDIT VERT 10/10 en 21,6 s). 
 ## Soumission académique
 - **Manuscrit** : "Weighing the obstruction: the smoothness of p-1, its parity signature, and a measured Tamagawa reconstruction of the twin-prime constant"
 - **Revue** : *Experimental Mathematics* (Taylor & Francis)

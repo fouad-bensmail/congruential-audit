@@ -678,5 +678,77 @@
     "n_keys": 3,
     "flags": 0,
     "notes": "global_dev:-0.00161 corr:1.00"
+  },
+  {
+    "date": "2026-09-15T08:38:02+00:00",
+    "domain": "lissite-corrigee",
+    "scanner": "lissite_corrigee",
+    "n_keys": 1000000,
+    "flags": 0,
+    "notes": "u2:0.9994 u3:0.9973 u4:0.9939"
+  },
+  {
+    "date": "2026-09-15T08:38:05+00:00",
+    "domain": "obstruction-parite",
+    "scanner": "obstruction_parite",
+    "n_keys": 8,
+    "flags": 0,
+    "notes": "X:1000000 Q:1000 sigma-ok:8/8 v2:3.00/1.00"
+  },
+  {
+    "date": "2026-09-15T08:38:09+00:00",
+    "domain": "groupe-translations",
+    "scanner": "groupe_translations",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "X:10000000 P:1000000 garde:6.6e-06 r41:0.9939 r61:1.9872"
+  },
+  {
+    "date": "2026-09-15T08:38:09+00:00",
+    "domain": "tamagawa-local",
+    "scanner": "tamagawa_local",
+    "n_keys": 3,
+    "flags": 0,
+    "notes": "X:10000000 garde:1.2e-07 crt-worst:7.1e-07"
+  },
+  {
+    "date": "2026-09-15T08:38:12+00:00",
+    "domain": "obstruction-mod3-mrule",
+    "scanner": "obstruction_mod3",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "m-rule anchor:True v3:1.500/0.0 sig:4/4 contr:1.18"
+  },
+  {
+    "date": "2026-09-15T08:38:16+00:00",
+    "domain": "obstruction-mod12-mrule",
+    "scanner": "obstruction_mod12",
+    "n_keys": 0,
+    "flags": 1,
+    "notes": "m-rule anchor:True ord:16/16 mul:16/13 contr:1.18"
+  },
+  {
+    "date": "2026-09-15T08:38:20+00:00",
+    "domain": "terme-croise",
+    "scanner": "terme_croise",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "rho:True add:True sig:True contr:1.22"
+  },
+  {
+    "date": "2026-09-15T08:38:22+00:00",
+    "domain": "marges-classes",
+    "scanner": "marges_classes",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "table exploitable pour crypto/ingénierie"
+  },
+  {
+    "date": "2026-09-15T08:38:23+00:00",
+    "domain": "collatz-conditionne",
+    "scanner": "collatz_conditionne",
+    "n_keys": 3,
+    "flags": 0,
+    "notes": "global_dev:-0.00161 corr:1.00"
   }
 ]

@@ -1,0 +1,17 @@
+[1/4] séries singulières et invariances (P = 1000000) ...
+ S(jumeaux) = 1.3203237 (garde |.-1.3203171| = 6.62e-06)
+[2/4] translations t=1..30 et réflexion : déviation max = 0 (exact)
+[3/4] covariance des dilatations (loi exacte) :
+ d= 2 : mesure/prediction = 1.000000000000
+ d= 3 : mesure/prediction = 1.000000000000
+ d= 4 : mesure/prediction = 1.000000000000
+ d= 6 : mesure/prediction = 1.000000000000
+ d=12 : mesure/prediction = 1.000000000000
+ déviation max de la loi = 0.00e+00
+[4/4] ancre empirique à X = 10000000 ...
+ C2 = 58980, C4 = 58622, C6 = 117207
+ C4/C2 = 0.9939 (attendu 1, 1.04 sigma)
+ C6/C2 = 1.9872 (attendu 2, 2.53 sigma)
+[verdict] groupe translations : VERT
+[OK] 3.6 s
+[hunt_log] trace ajoutee : groupe-translations (4 cles, 0 drapeau(x))

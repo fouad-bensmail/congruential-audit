@@ -1,0 +1,12 @@
+AUDIT VERT : 10/10 compagnons reproductibles. Le manuscrit est integralement rejouable en une commande.
+
+lissite_corrigee.py         VERT         0.3 s
+lissite_u4_10M.py           VERT         2.9 s
+obstruction_parite.py       VERT         0.4 s
+groupe_translations.py      VERT         3.7 s
+tamagawa_local.py           VERT         0.3 s
+obstruction_mod3.py         VERT         3.0 s
+obstruction_mod12.py        VERT         4.6 s
+terme_croise.py             VERT         3.3 s
+marges_classes.py           VERT         2.7 s
+collatz_conditionne.py      VERT         0.6 s
