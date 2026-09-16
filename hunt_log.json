@@ -798,5 +798,13 @@
     "n_keys": 4,
     "flags": 0,
     "notes": "n2+1 u2 mes(10^5)=0.227960 rho2=0.3068528 bad=0"
+  },
+  {
+    "date": "2026-09-16T16:50:45+00:00",
+    "domain": "sophie-germain",
+    "scanner": "sophie_germain",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "n_sg(10^7)=56032"
   }
 ]

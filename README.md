@@ -88,7 +88,11 @@ weak-entropy or flawed-PRNG key generation.
 - Cahier v15 (15 sept. 2026) : DOI [10.5281/zenodo.22800304](https://zenodo.org/doi/10.5281/zenodo.22800304)
   - Addenda XII–XXIV. Nouveauté v15 : XXIV (lissite_polynome : Dickman rejeté 
     pour n²+1, décroissance du ratio avec u, signature de la contrainte 
-    quadratique). Le compagnon lissite_polynome.py rejoint le pack. 
+    quadratique). Le compagnon lissite_polynome.py rejoint le pack.
+- Cahier v16 (15 sept. 2026) : DOI [10.5281/zenodo.22800726](https://zenodo.org/doi/10.5281/zenodo.22800726)
+  - Addenda XII–XXV. Nouveauté v16 : XXV (sophie_germain : les premiers sûrs 
+    sont structurellement plus lisses que la classe 2 mod 3, retombée crypto 
+    contre-intuitive). Le compagnon sophie_germain.py rejoint le pack. 
 ## Soumission académique
 - **Manuscrit** : "Weighing the obstruction: the smoothness of p-1, its parity signature, and a measured Tamagawa reconstruction of the twin-prime constant"
 - **Revue** : *Experimental Mathematics* (Taylor & Francis)

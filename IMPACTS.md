@@ -23,3 +23,6 @@
 [PUBLIE] 15 sept. 2026 — Cahier v15, DOI 10.5281/zenodo.22800304
   (Addenda XII-XXIV : extension aux valeurs polynomiales, Dickman rejeté 
    pour n²+1 par la contrainte des résidus quadratiques).
+[PUBLIE] 15 sept. 2026 — Cahier v16, DOI 10.5281/zenodo.22800726
+  (Addenda XII-XXV : extension aux premiers de Sophie Germain, lissité 
+   amplifiée et retombée crypto).
