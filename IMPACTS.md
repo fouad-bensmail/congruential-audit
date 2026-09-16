@@ -14,3 +14,12 @@
 [PUBLIE] 15 sept. 2026 — Preprint, DOI 10.5281/zenodo.22758846
 [PUBLIE] 15 sept. 2026 — Cahier v12, DOI 10.5281/zenodo.22765398
   (Addenda XII-XXI : Preuves T1-T4, marges crypto, résultat négatif Collatz, script maître d'audit).
+[PUBLIE] 15 sept. 2026 — Cahier v13, DOI 10.5281/zenodo.22798488
+  (Addenda XII-XXII : diviseur forcé universel, cartographie mod 24/30/60/64, 
+   cascade dyadique, retombée crypto affinée).
+[PUBLIE] 15 sept. 2026 — Cahier v14, DOI 10.5281/zenodo.10.5281/zenodo.22799566
+  (Addenda XII-XXIII : transfert Tamagawa universel, 6 motifs, consolidation
+   géométrique).
+[PUBLIE] 15 sept. 2026 — Cahier v15, DOI 10.5281/zenodo.22800304
+  (Addenda XII-XXIV : extension aux valeurs polynomiales, Dickman rejeté 
+   pour n²+1 par la contrainte des résidus quadratiques).

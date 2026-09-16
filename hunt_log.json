@@ -750,5 +750,53 @@
     "n_keys": 3,
     "flags": 0,
     "notes": "global_dev:-0.00161 corr:1.00"
+  },
+  {
+    "date": "2026-09-16T14:23:47+00:00",
+    "domain": "obstruction-mod24",
+    "scanner": "obstruction_modM",
+    "n_keys": 5,
+    "flags": 0,
+    "notes": "M=24 phi=8 ordre=0.99 persistance=0.976 drapeaux=0"
+  },
+  {
+    "date": "2026-09-16T14:23:50+00:00",
+    "domain": "obstruction-mod30",
+    "scanner": "obstruction_modM",
+    "n_keys": 5,
+    "flags": 1,
+    "notes": "M=30 phi=8 ordre=0.95 persistance=0.881 drapeaux=1"
+  },
+  {
+    "date": "2026-09-16T14:23:52+00:00",
+    "domain": "obstruction-mod64",
+    "scanner": "obstruction_modM",
+    "n_keys": 5,
+    "flags": 0,
+    "notes": "M=64 phi=32 ordre=0.93 persistance=0.939 drapeaux=0"
+  },
+  {
+    "date": "2026-09-16T14:30:36+00:00",
+    "domain": "obstruction-mod60",
+    "scanner": "obstruction_modM",
+    "n_keys": 5,
+    "flags": 0,
+    "notes": "M=60 phi=16 ordre=0.99 persistance=0.976 drapeaux=0"
+  },
+  {
+    "date": "2026-09-16T15:26:50+00:00",
+    "domain": "tamagawa-motifs",
+    "scanner": "tamagawa_motifs",
+    "n_keys": 6,
+    "flags": 0,
+    "notes": "S_jumeaux=1.3203237 dev=1.21e-07 drapeaux=0"
+  },
+  {
+    "date": "2026-09-16T16:12:42+00:00",
+    "domain": "lissite-polynome",
+    "scanner": "lissite_polynome",
+    "n_keys": 4,
+    "flags": 0,
+    "notes": "n2+1 u2 mes(10^5)=0.227960 rho2=0.3068528 bad=0"
   }
 ]

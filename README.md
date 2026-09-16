@@ -76,7 +76,19 @@ weak-entropy or flawed-PRNG key generation.
   +159%/-90% à u=5), XX (collatz_conditionne : résultat négatif publié,
   la grille 2×3 ne descend pas dans Collatz).
 - Cahier v12 (15 sept. 2026) : DOI [10.5281/zenodo.22765398](https://zenodo.org/doi/10.5281/zenodo.22765398)
-  - Addenda XII–XXI. Nouveauté v12 : Addendum XXI (script maître `reproduce_all.py`, AUDIT VERT 10/10 en 21,6 s). 
+  - Addenda XII–XXI. Nouveauté v12 : Addendum XXI (script maître `reproduce_all.py`, AUDIT VERT 10/10 en 21,6 s).
+- Cahier v13 (15 sept. 2026) : DOI 10.5281/zenodo.10.5281/zenodo.22798488 —
+  Addenda XII–XXII. Nouveauté v13 : XXII (obstruction_modM : le diviseur
+  forcé universel, cartographie mod 24/30/60/64, 3 AUDIT VERT + 1 drapeau
+  expliqué). Le compagnon paramétrique obstruction_modM.py rejoint le pack.
+- Cahier v14 (15 sept. 2026) : DOI 10.5281/zenodo.10.5281/zenodo.22799566 —
+  Addenda XII–XXIII. Nouveauté v14 : XXIII (tamagawa_motifs : transfert
+  Tamagawa universel, 6 motifs admissibles, poignée 2C2 à 1,2e-7).
+  Le compagnon tamagawa_motifs.py rejoint le pack.
+- Cahier v15 (15 sept. 2026) : DOI [10.5281/zenodo.22800304](https://zenodo.org/doi/10.5281/zenodo.22800304)
+  - Addenda XII–XXIV. Nouveauté v15 : XXIV (lissite_polynome : Dickman rejeté 
+    pour n²+1, décroissance du ratio avec u, signature de la contrainte 
+    quadratique). Le compagnon lissite_polynome.py rejoint le pack. 
 ## Soumission académique
 - **Manuscrit** : "Weighing the obstruction: the smoothness of p-1, its parity signature, and a measured Tamagawa reconstruction of the twin-prime constant"
 - **Revue** : *Experimental Mathematics* (Taylor & Francis)
