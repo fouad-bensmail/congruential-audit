@@ -1,0 +1,30 @@
+Commande : python obstruction_mod3.py
+Temps : 3.00 s
+Code retour : 0
+
+==============================================================================
+SORTIE STANDARD :
+==============================================================================
+[0/4] etalon global P+(p-1) <= (p-1)^(1/u) ...
+      u=2 : globale 10^7 = 0.35584
+      u=3 : globale 10^7 = 0.07519
+      u=4 : globale 10^7 = 0.01449
+      u=5 : globale 10^7 = 0.00360
+      garde u=2 contre 0.35583 : OK
+[1/4] garde interne v3(p-1) ...
+      v3 moyen classe 1 = 1.4996 (attendu 1,5) ; classe 2 = 0.0000 (attendu 0)
+[2/4] signature rho1 - rho2 ...
+      u=2 : ecart 10^6 = +0.13964 , ecart 10^7 = +0.11799
+      u=3 : ecart 10^6 = +0.06708 , ecart 10^7 = +0.05187
+      u=4 : ecart 10^6 = +0.02282 , ecart 10^7 = +0.01486
+      u=5 : ecart 10^6 = +0.00803 , ecart 10^7 = +0.00471
+      signature 4/4 : 10^6 4/4 , 10^7 4/4
+[3/4] modele aveugle global/classe : direction et persistence ...
+      u=2 : 10^6 aveugle1 0.8405 aveugle2 1.2339 | 10^7 aveugle1 0.8577 aveugle2 1.1987
+      u=3 : 10^6 aveugle1 0.7161 aveugle2 1.6559 | 10^7 aveugle1 0.7435 aveugle2 1.5263
+      u=4 : 10^6 aveugle1 0.6377 aveugle2 2.3133 | 10^7 aveugle1 0.6610 aveugle2 2.0513
+      u=5 : 10^6 aveugle1 0.5874 aveugle2 3.3522 | 10^7 aveugle1 0.6047 aveugle2 2.8852
+      ecart rho1-rho2 (u=2) : 10^6 +0.13964 -> 10^7 +0.11799 (contraction x1.18)
+[verdict] obstruction mod 3 : VERT
+[OK] 2.9 s
+[hunt_log] trace ajoutee : obstruction-mod3-mrule (4 cles, 0 drapeau(x))

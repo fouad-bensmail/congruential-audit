@@ -1,0 +1,36 @@
+Commande : python lissite_polynome.py
+Temps : 3.22 s
+Code retour : 0
+Verdict : VERT (0 drapeau(x))
+
+==============================================================================
+==============================================================================
+LISSITE DES VALEURS POLYNOMIALES — P(n) = n^2 + 1
+echelles (10000, 100000), 4784 premiers autorises (2 et p ≡ 1 mod 4)
+==============================================================================
+
+pesee X = 10000 ...
+
+pesee X = 100000 ...
+
+[0] garde structure : P+(n^2+1) ≡ 1 mod 4 ou = 2
+      VERT : aucun facteur premier ≡ 3 mod 4 sur 110000 valeurs
+
+[1] proportions u-lisses contre modele de Dickman
+      u   rho(Dickman)   mes(10^4)    mes(10^5)    ratio(10^5/rho)
+      2   0.306853       0.208500      0.227960      0.7429
+      3   0.048608       0.020000      0.024430      0.5026
+      4   0.004910       0.001000      0.001520      0.3095
+      5   0.000354       0.000000      0.000070      0.1976
+
+[2] stabilite entre echelles
+      u=2 : mes(10^5)/mes(10^4) = 1.0933
+      u=3 : mes(10^5)/mes(10^4) = 1.2215
+      u=4 : mes(10^5)/mes(10^4) = 1.5200
+
+==============================================================================
+VERDICT : AUDIT VERT : structure tenue, proportions mesurees
+==============================================================================
+[OK] 3.2 s
+[hunt_log] trace ajoutee : lissite-polynome (4 cles, 0 drapeau(x))
+

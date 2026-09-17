@@ -1,0 +1,32 @@
+Commande : python tamagawa_local.py
+Temps : 0.19 s
+Code retour : 0
+
+==============================================================================
+SORTIE STANDARD :
+==============================================================================
+[1/3] volumes locaux et produits partiels ...
+ S(   1000) = 1.3204915
+ S(  10000) = 1.3203366
+ S( 100000) = 1.3203247
+ S(1000000) = 1.3203237
+ garde |S(1e6)-1.3203236| = 1.21e-07
+[2/3] ind�pendance CRT mesur�e (global = produit des locaux) ...
+ D=     6 : periode==prod(p-nu) True ; freq X / produit locaux = 1.000000
+ D=    30 : periode==prod(p-nu) True ; freq X / produit locaux = 1.000000
+ D=   105 : periode==prod(p-nu) True ; freq X / produit locaux = 1.000000
+ D=   210 : periode==prod(p-nu) True ; freq X / produit locaux = 1.000000
+ D=   385 : periode==prod(p-nu) True ; freq X / produit locaux = 1.000000
+ D=  1001 : periode==prod(p-nu) True ; freq X / produit locaux = 1.000000
+ D=  2310 : periode==prod(p-nu) True ; freq X / produit locaux = 1.000001
+ D= 46189 : periode==prod(p-nu) True ; freq X / produit locaux = 1.000000
+ d�viation max = 7.11e-07 (borne ~ Dmax/X = 4.6e-03)
+[3/3] table locale (fractions exactes) :
+ p= 2 : V_p = 1/2 , mu_p = 1/4 , beta_p = 2.000000
+ p= 3 : V_p = 1/3 , mu_p = 4/9 , beta_p = 0.750000
+ p= 5 : V_p = 3/5 , mu_p = 16/25 , beta_p = 0.937500
+ p= 7 : V_p = 5/7 , mu_p = 36/49 , beta_p = 0.972222
+ p=11 : V_p = 9/11 , mu_p = 100/121 , beta_p = 0.990000
+[verdict] tamagawa local : VERT
+[OK] 0.1 s
+[hunt_log] trace ajoutee : tamagawa-local (3 cles, 0 drapeau(x))

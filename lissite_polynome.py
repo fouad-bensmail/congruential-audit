@@ -24,7 +24,11 @@ Gardes annoncees :
 import math
 import time
 import hunt_log
-
+import sys
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
 US = (2, 3, 4, 5)
 SCALES = (10**4, 10**5)
 

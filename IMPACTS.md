@@ -26,3 +26,6 @@
 [PUBLIE] 15 sept. 2026 — Cahier v16, DOI 10.5281/zenodo.22800726
   (Addenda XII-XXV : extension aux premiers de Sophie Germain, lissité 
    amplifiée et retombée crypto).
+[PUBLIE] 17 sept. 2026 — Cahier v17, DOI 10.5281/zenodo.22804592
+  (Addenda XII-XXVI : audit étendu en une commande, reproductibilité 
+   garantie sur l'ensemble des 15 compagnons mesurés).

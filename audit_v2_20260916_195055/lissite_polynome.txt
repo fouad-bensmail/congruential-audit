@@ -1,0 +1,24 @@
+Commande : python lissite_polynome.py
+Temps : 0.16 s
+Code retour : 1
+
+==============================================================================
+SORTIE STANDARD :
+==============================================================================
+==============================================================================
+LISSITE DES VALEURS POLYNOMIALES � P(n) = n^2 + 1
+
+==============================================================================
+ERREURS :
+==============================================================================
+Traceback (most recent call last):
+  File "C:\Users\FATY\Desktop\congruential-audit\lissite_polynome.py", line 122, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\FATY\Desktop\congruential-audit\lissite_polynome.py", line 77, in main
+    print(f"echelles {SCALES}, {len(primes)} premiers autorises (2 et p \u2261 1 mod 4)")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\FATY\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2261' in position 58: character maps to <undefined>

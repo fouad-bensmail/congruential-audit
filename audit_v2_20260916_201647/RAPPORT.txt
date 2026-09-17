@@ -1,0 +1,32 @@
+==============================================================================
+RAPPORT D'AUDIT REPRODUCE_ALL V2.1
+==============================================================================
+Horodatage : 20260916_201647   Temps total : 38.25 s
+
+VERT                 : 15/17
+DRAPEAU EXPLIQUE     : 2/17
+    * obstruction_mod12 : Addendum XVI : refus publie de la multiplicativite naive
+    * obstruction_mod30 : Addendum XXII : drapeau de persistance explique (jumelles serrees)
+PROBLEME (erreur/inconnu/inattendu) : 0/17
+
+  [+] lissite_corrigee       VERT                 0.27 s
+  [+] lissite_u4_10M         VERT                 2.86 s
+  [+] obstruction_parite     VERT                 0.35 s
+  [+] groupe_translations    VERT                 3.48 s
+  [+] tamagawa_local         VERT                 0.16 s
+  [+] obstruction_mod3       VERT                 2.98 s
+  [*] obstruction_mod12      DRAPEAU EXPLIQUE     4.53 s
+  [+] terme_croise           VERT                 3.40 s
+  [+] marges_classes         VERT                 2.65 s
+  [+] collatz_conditionne    VERT                 0.56 s
+  [+] obstruction_mod24      VERT                 2.68 s
+  [*] obstruction_mod30      DRAPEAU EXPLIQUE     2.83 s
+  [+] obstruction_mod60      VERT                 2.83 s
+  [+] obstruction_mod64      VERT                 2.52 s
+  [+] tamagawa_motifs        VERT                 0.67 s
+  [+] lissite_polynome       VERT                 3.22 s
+  [+] sophie_germain         VERT                 2.21 s
+
+==============================================================================
+VERDICT FINAL : AUDIT VERT ETEND — 15 vert(s), 2 drapeau(x) explique(s) au registre, 0 alarme.
+==============================================================================

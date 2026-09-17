@@ -92,7 +92,11 @@ weak-entropy or flawed-PRNG key generation.
 - Cahier v16 (15 sept. 2026) : DOI [10.5281/zenodo.22800726](https://zenodo.org/doi/10.5281/zenodo.22800726)
   - Addenda XII–XXV. Nouveauté v16 : XXV (sophie_germain : les premiers sûrs 
     sont structurellement plus lisses que la classe 2 mod 3, retombée crypto 
-    contre-intuitive). Le compagnon sophie_germain.py rejoint le pack. 
+    contre-intuitive). Le compagnon sophie_germain.py rejoint le pack.
+- Cahier v17 (17 sept. 2026) : DOI [10.5281/zenodo.22804592](https://zenodo.org/doi/10.5281/zenodo.22804592)
+  - Addenda XII–XXVI. Nouveauté v17 : XXVI (reproduce_all_v2 : audit étendu 
+    en une commande, 17 invocations, AUDIT VERT ÉTENDU 15+2+0). Le script 
+    maître reproduce_all_v2.py rejoint le pack. 
 ## Soumission académique
 - **Manuscrit** : "Weighing the obstruction: the smoothness of p-1, its parity signature, and a measured Tamagawa reconstruction of the twin-prime constant"
 - **Revue** : *Experimental Mathematics* (Taylor & Francis)

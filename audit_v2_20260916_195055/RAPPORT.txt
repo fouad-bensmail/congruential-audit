@@ -1,0 +1,74 @@
+==============================================================================
+RAPPORT D'AUDIT REPRODUCE_ALL V2
+==============================================================================
+Horodatage : 20260916_195055
+Nombre de compagnons : 17
+Temps total : 36.12 s
+
+==============================================================================
+RÉSUMÉ DES VERDICTS
+==============================================================================
+
+✓ AUDIT VERT : 4/17
+⚠ DRAPEAU(X) : 2/17
+✗ ERREUR/TIMEOUT : 11/17
+
+==============================================================================
+DÉTAIL PAR COMPAGNON
+==============================================================================
+
+ 1. [lissite_corrigee] Addendum XII-XIV
+    ✗ INCONNU — 0.28 s
+
+ 2. [lissite_u4_10M] Addendum XV
+    ✗ INCONNU — 2.86 s
+
+ 3. [obstruction_parite] Addendum XV
+    ✗ INCONNU — 0.37 s
+
+ 4. [groupe_translations] Addendum XII
+    ✗ INCONNU — 3.89 s
+
+ 5. [tamagawa_local] Addendum XIII
+    ✗ INCONNU — 0.19 s
+
+ 6. [obstruction_mod3] Addendum XV
+    ✗ INCONNU — 3.00 s
+
+ 7. [obstruction_mod12] Addendum XVI
+    ⚠ DRAPEAU — 4.89 s
+
+ 8. [terme_croise] Addendum XVII
+    ✗ INCONNU — 3.39 s
+
+ 9. [marges_classes] Addendum XIX
+    ✗ INCONNU — 2.66 s
+
+10. [collatz_conditionne] Addendum XX
+    ✗ INCONNU — 0.58 s
+
+11. [obstruction_mod24] Addendum XXII
+    ✓ VERT — 2.69 s
+
+12. [obstruction_mod30] Addendum XXII
+    ⚠ DRAPEAU — 2.81 s
+
+13. [obstruction_mod60] Addendum XXII
+    ✓ VERT — 2.83 s
+
+14. [obstruction_mod64] Addendum XXII
+    ✓ VERT — 2.52 s
+
+15. [tamagawa_motifs] Addendum XXIII
+    ✓ VERT — 0.68 s
+
+16. [lissite_polynome] Addendum XXIV
+    ✗ ERREUR — 0.16 s
+    Code retour : 1
+
+17. [sophie_germain] Addendum XXV
+    ✗ INCONNU — 2.22 s
+
+==============================================================================
+VERDICT FINAL : 11 ERREUR(S) — voir sorties individuelles
+==============================================================================

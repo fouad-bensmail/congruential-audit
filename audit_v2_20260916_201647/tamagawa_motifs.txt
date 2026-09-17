@@ -1,0 +1,54 @@
+Commande : python tamagawa_motifs.py
+Temps : 0.67 s
+Code retour : 0
+Verdict : VERT (0 drapeau(x))
+
+==============================================================================
+==============================================================================
+TRANSFERT TAMAGAWA — volumes locaux et produit singulier par motif
+6 motifs admissibles, paliers (1000, 10000, 100000, 1000000)
+==============================================================================
+
+[jumeaux] H = [0, 2], k = 2, admissible
+      paliers : S(1000)=1.3204915   S(10000)=1.3203366   S(100000)=1.3203247   S(1000000)=1.3203237   
+      deviation dernier palier |S(10^6)-S(10^5)| = 9.70e-07
+
+[cousins] H = [0, 4], k = 2, admissible
+      paliers : S(1000)=1.3204915   S(10000)=1.3203366   S(100000)=1.3203247   S(1000000)=1.3203237   
+      deviation dernier palier |S(10^6)-S(10^5)| = 9.70e-07
+
+[sexy] H = [0, 6], k = 2, admissible
+      paliers : S(1000)=2.6409830   S(10000)=2.6406732   S(100000)=2.6406494   S(1000000)=2.6406474   
+      deviation dernier palier |S(10^6)-S(10^5)| = 1.94e-06
+
+[triplet_A] H = [0, 2, 6], k = 3, admissible
+      paliers : S(1000)=2.8593393   S(10000)=2.8583328   S(100000)=2.8582555   S(1000000)=2.8582492   
+      deviation dernier palier |S(10^6)-S(10^5)| = 6.30e-06
+
+[triplet_B] H = [0, 4, 6], k = 3, admissible
+      paliers : S(1000)=2.8593393   S(10000)=2.8583328   S(100000)=2.8582555   S(1000000)=2.8582492   
+      deviation dernier palier |S(10^6)-S(10^5)| = 6.30e-06
+
+[quadruplet] H = [0, 2, 6, 8], k = 4, admissible
+      paliers : S(1000)=4.1543506   S(10000)=4.1514254   S(100000)=4.1512008   S(1000000)=4.1511826   
+      deviation dernier palier |S(10^6)-S(10^5)| = 1.83e-05
+
+==============================================================================
+[2] poignee de main externe : S(jumeaux) -> 2C2
+      S(jumeaux) = 1.3203237 contre 2C2 = 1.3203236 ; deviation = 1.21e-07
+
+==============================================================================
+Universalite : le meme mecanisme reconstruit chaque constante
+      S(jumeaux) = 1.3203237
+      S(cousins) = 1.3203237
+      S(sexy) = 2.6406474
+      S(triplet_A) = 2.8582492
+      S(triplet_B) = 2.8582492
+      S(quadruplet) = 4.1511826
+
+==============================================================================
+VERDICT : AUDIT VERT : transfert Tamagawa universel, poignee 2C2 tenue
+==============================================================================
+[OK] 0.6 s
+[hunt_log] trace ajoutee : tamagawa-motifs (6 cles, 0 drapeau(x))
+

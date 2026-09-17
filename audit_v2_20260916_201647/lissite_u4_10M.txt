@@ -1,0 +1,22 @@
+Commande : python lissite_u4_10M.py
+Temps : 2.86 s
+Code retour : 0
+Verdict : VERT (0 drapeau(x))
+
+==============================================================================
+[1/4] crible lpf jusqu'a 10000000...
+[2/4] crible des premiers jusqu'a 10000000...
+ 664579 premiers
+[3/4] mesure p-1 a X=10000000...
+[4/4] modele corrige (Q=3162)...
+
+[X] lissite_u4_10M — X=10000000, n_p1=664578, n_mod=664133, Q=3162
+ u | mesure p-1 | modele corrige | ratio | ecart vs 1.0
+ 2 | 0.35583 | 0.35577 | 0.9998 | -0.0002
+ 3 | 0.07519 | 0.07513 | 0.9993 | -0.0007
+ 4 | 0.01449 | 0.01445 | 0.9976 | -0.0024
+ 5 | 0.00360 | 0.00359 | 0.9965 | -0.0035
+
+[OK] 2.8 s.
+[NOTE] u2:0.9998 / u3:0.9993 / u4:0.9976 / u5:0.9965
+
