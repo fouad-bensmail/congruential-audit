@@ -29,3 +29,6 @@
 [PUBLIE] 17 sept. 2026 — Cahier v17, DOI 10.5281/zenodo.22804592
   (Addenda XII-XXVI : audit étendu en une commande, reproductibilité 
    garantie sur l'ensemble des 15 compagnons mesurés).
+[PUBLIE] 17 sept. 2026 — Cahier v18, DOI 10.5281/zenodo.22831375
+  (Charte de la maison, réponse à l'évaluation externe, pont des registres.
+   L'édifice a désormais une constitution publique.)

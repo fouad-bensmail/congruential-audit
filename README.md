@@ -96,7 +96,11 @@ weak-entropy or flawed-PRNG key generation.
 - Cahier v17 (17 sept. 2026) : DOI [10.5281/zenodo.22804592](https://zenodo.org/doi/10.5281/zenodo.22804592)
   - Addenda XII–XXVI. Nouveauté v17 : XXVI (reproduce_all_v2 : audit étendu 
     en une commande, 17 invocations, AUDIT VERT ÉTENDU 15+2+0). Le script 
-    maître reproduce_all_v2.py rejoint le pack. 
+    maître reproduce_all_v2.py rejoint le pack.
+- Cahier v18 (17 sept. 2026) : DOI [10.5281/zenodo.22831375](https://zenodo.org/doi/10.5281/zenodo.22831375)
+  - Addenda XII–XXVI + Note Universelle VIII (charte de la maison) + 
+    Addendum XXVII (évaluation externe reçue et réponse) + Annexe A 
+    (correspondance des termes). La maison se donne une constitution. 
 ## Soumission académique
 - **Manuscrit** : "Weighing the obstruction: the smoothness of p-1, its parity signature, and a measured Tamagawa reconstruction of the twin-prime constant"
 - **Revue** : *Experimental Mathematics* (Taylor & Francis)
