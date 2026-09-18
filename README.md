@@ -100,7 +100,15 @@ weak-entropy or flawed-PRNG key generation.
 - Cahier v18 (17 sept. 2026) : DOI [10.5281/zenodo.22831375](https://zenodo.org/doi/10.5281/zenodo.22831375)
   - Addenda XII–XXVI + Note Universelle VIII (charte de la maison) + 
     Addendum XXVII (évaluation externe reçue et réponse) + Annexe A 
-    (correspondance des termes). La maison se donne une constitution. 
+    (correspondance des termes). La maison se donne une constitution.
+- Cahier v19 (19 sept. 2026) : DOI [10.5281/zenodo.22836872](https://zenodo.org/doi/10.5281/zenodo.22836872)
+  - Addendum XXVIII : continuité de la série singulière sur l'espace des motifs.
+    Théorème T5 candidat confirmé (contraction x4.38, AUDIT VERT).
+    Le compagnon motif_espace.py (17e) rejoint le pack.
+- Cahier v21 (19 sept. 2026) : DOI [10.5281/zenodo.22837465](https://zenodo.org/doi/10.5281/zenodo.22837465)
+  - Addendum XXIX : Anti-fraude universelle (Axe 1). Scanner géométrique de clés RSA.
+    La lunette de l'Addendum v4 devient un outil de diagnostic (AUDIT VERT).
+    Le compagnon anti_fraude/diagnostic_rsa.py (18e) rejoint le pack. 
 ## Soumission académique
 - **Manuscrit** : "Weighing the obstruction: the smoothness of p-1, its parity signature, and a measured Tamagawa reconstruction of the twin-prime constant"
 - **Revue** : *Experimental Mathematics* (Taylor & Francis)

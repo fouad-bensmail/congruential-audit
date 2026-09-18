@@ -32,3 +32,6 @@
 [PUBLIE] 17 sept. 2026 — Cahier v18, DOI 10.5281/zenodo.22831375
   (Charte de la maison, réponse à l'évaluation externe, pont des registres.
    L'édifice a désormais une constitution publique.)
+[PUBLIE] 19 sept. 2026 — Cahier v19, DOI 10.5281/zenodo.22836872
+  (Addendum XXVIII : première pierre de la Direction 1. Continuité de S
+   mesurée. Réponse concrète à l'exigence de théorème nouveau.)
