@@ -1,0 +1,44 @@
+[0/5] etalon global P+(p-1) <= (p-1)^(1/u) ...
+      u=2 : globale 10^7 = 0.35584
+      u=3 : globale 10^7 = 0.07519
+      u=4 : globale 10^7 = 0.01449
+      u=5 : globale 10^7 = 0.00360
+      garde u=2 contre 0.35583 : OK
+[1/5] gardes deterministes (v2, v3) par classe mod 12 (10^7) ...
+      c 1 : v2 = 2.9987 (attendu 3.0) ; v3 = 1.4993 (attendu 1.5)
+      c 5 : v2 = 2.9993 (attendu 3.0) ; v3 = 0.0000 (attendu 0.0)
+      c 7 : v2 = 1.0000 (attendu 1.0) ; v3 = 1.4999 (attendu 1.5)
+      c11 : v2 = 1.0000 (attendu 1.0) ; v3 = 0.0000 (attendu 0.0)
+[2/5] signature : rho1 au-dessus, rho11 au-dessous ...
+      u=2 : 10^7 rho(c1/c7/c5/c11) = 0.46674 / 0.36301 / 0.34364 / 0.25008 | c7 vs c5 : c7
+      u=3 : 10^7 rho(c1/c7/c5/c11) = 0.13019 / 0.07210 / 0.06519 / 0.03334 | c7 vs c5 : c7
+      u=4 : 10^7 rho(c1/c7/c5/c11) = 0.03162 / 0.01223 / 0.01062 / 0.00351 | c7 vs c5 : c7
+      u=5 : 10^7 rho(c1/c7/c5/c11) = 0.00932 / 0.00259 / 0.00212 / 0.00038 | c7 vs c5 : c7
+      ordre des extremes 16/16 : 10^6 16/16 , 10^7 16/16
+[3/5] multiplicativite D12 = D4 * D3 (capture authentique) ...
+      u=2 c 1 : D12 = 1.3117 , D4*D3 = 1.3275 , z = 2.80
+      u=2 c 5 : D12 = 0.9657 , D4*D3 = 0.9499 , z = 3.26
+      u=2 c 7 : D12 = 1.0202 , D4*D3 = 1.0043 , z = 3.17
+      u=2 c11 : D12 = 0.7028 , D4*D3 = 0.7187 , z = 3.79
+      u=3 c 1 : D12 = 1.7315 , D4*D3 = 1.7472 , z = 0.85
+      u=3 c 5 : D12 = 0.8670 , D4*D3 = 0.8511 , z = 1.34
+      u=3 c 7 : D12 = 0.9589 , D4*D3 = 0.9430 , z = 1.25
+      u=3 c11 : D12 = 0.4435 , D4*D3 = 0.4594 , z = 2.02
+      u=4 c 1 : D12 = 2.1820 , D4*D3 = 2.2041 , z = 0.42
+      u=4 c 5 : D12 = 0.7326 , D4*D3 = 0.7103 , z = 0.88
+      u=4 c 7 : D12 = 0.8442 , D4*D3 = 0.8219 , z = 0.81
+      u=4 c11 : D12 = 0.2425 , D4*D3 = 0.2649 , z = 1.73
+      u=5 c 1 : D12 = 2.5885 , D4*D3 = 2.6259 , z = 0.31
+      u=5 c 5 : D12 = 0.5880 , D4*D3 = 0.5503 , z = 0.84
+      u=5 c 7 : D12 = 0.7200 , D4*D3 = 0.6823 , z = 0.74
+      u=5 c11 : D12 = 0.1052 , D4*D3 = 0.1430 , z = 2.13
+      dans 3 sigma : 10^6 16/16 , 10^7 13/16
+[4/5] aveugle global/classe : direction et persistence ...
+      u=2 : 10^6 c1 0.7373 c11 1.5110 | 10^7 c1 0.7624 c11 1.4229
+      u=3 : 10^6 c1 0.5410 c11 2.5912 | 10^7 c1 0.5775 c11 2.2550
+      u=4 : 10^6 c1 0.4310 c11 5.4089 | 10^7 c1 0.4583 c11 4.1242
+      u=5 : 10^6 c1 0.3598 c11 12.4913 | 10^7 c1 0.3863 c11 9.5040
+      ecart rho1-rho11 (u=2) : 10^6 +0.25567 -> 10^7 +0.21666 (contraction x1.18)
+[verdict] obstruction mod 12 : REFUSE
+[OK] 4.5 s
+[hunt_log] trace ajoutee : obstruction-mod12-mrule (0 cles, 1 drapeau(x))

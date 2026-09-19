@@ -1,0 +1,27 @@
+======================================================================
+diagnostic_rsa.py -- scanner geometrique de cles RSA (Axe 1)
+======================================================================
+Fenetre Fermat : 2000000 iterations
+
+--- CLE FAIBLE (jumeaux) ---
+  N = 1000000016000000063 (60 bits)
+  Fermat : a = 1000000008, b = 1
+  Angle phi = 1.000000e-09 rad
+  Rationnel proche : tan(phi) ~ 0 (dist 1.00e-09)
+  Signature dyadique : v2(N-1) = 1, v2(N+1) = 6
+  Verdict : FAIBLE (Fermat detecte, triangle aplati)
+  Attendu : FAIBLE
+  Statut : OK
+
+--- CLE CONFORME (eloignes) ---
+  N = 999982937001071 (50 bits)
+  Fermat : aucune faiblesse dans la fenetre
+  Signature dyadique : v2(N-1) = 1, v2(N+1) = 4
+  Verdict : CONFORME (pas de faiblesse dans la fenetre)
+  Attendu : CONFORME
+  Statut : OK
+
+----------------------------------------------------------------------
+VERDICT : AUDIT VERT
+  Axe 1 de l'anti-fraude ouvert : le scanner separe les cles.
+[OK]

@@ -1,0 +1,32 @@
+==============================================================================
+LISSITE DE p-1 POUR LES PREMIERS DE SOPHIE GERMAIN
+echelles (1000000, 10000000)
+==============================================================================
+
+generation du crible jusqu'a 2*10^7+1 ...
+generation du crible gpf jusqu'a 10^7 ...
+
+pesee X = 1000000 ...
+
+pesee X = 10000000 ...
+
+[0] garde congruentielle : v_3(p-1) = 0 pour les premiers SG
+      X=1000000 : 7746 premiers SG, proportion avec v_3(p-1)>=1 : 0.000000
+      X=10000000 : 56032 premiers SG, proportion avec v_3(p-1)>=1 : 0.000000
+
+[1] lissite de p-1 : SG vs premiers ordinaires classe 2 mod 3
+      u   SG(10^6)    cls2(10^6)  SG(10^7)    cls2(10^7)  ratio SG/cls2
+      2   0.332430    0.298383    0.322994    0.296856    1.1141 / 1.0880
+      3   0.063517    0.051114    0.059966    0.049262    1.2426 / 1.2173
+      4   0.010715    0.008685    0.009245    0.007064    1.2338 / 1.3087
+      5   0.001807    0.001706    0.001642    0.001249    1.0592 / 1.3151
+
+[2] stabilite du ratio SG/cls2 entre echelles
+      u=2 : ratio(10^6)=1.1141 -> ratio(10^7)=1.0880
+      u=3 : ratio(10^6)=1.2426 -> ratio(10^7)=1.2173
+      u=4 : ratio(10^6)=1.2338 -> ratio(10^7)=1.3087
+      u=5 : ratio(10^6)=1.0592 -> ratio(10^7)=1.3151
+
+==============================================================================
+[OK] 2.2 s
+[hunt_log] trace ajoutee : sophie-germain (4 cles, 0 drapeau(x))

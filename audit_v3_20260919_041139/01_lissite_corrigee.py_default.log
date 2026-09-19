@@ -1,0 +1,7 @@
+[X] lissite corrigee — m pair, m+1 sans facteur <= 1000, X=1000000, n=78330
+ u | rho naive | mesure p-1 | modele corrige | corr/mesure | naive/mesure
+ 2 | 0.30685 | 0.36817 | 0.36794 | 0.9994 | 0.8334
+ 3 | 0.04861 | 0.08464 | 0.08441 | 0.9973 | 0.5743
+ 4 | 0.00497 | 0.02009 | 0.01997 | 0.9939 | 0.2474
+[OK] 0.2 s.
+[hunt_log] trace ajoutee : lissite-corrigee (1000000 cles, 0 drapeau(x))

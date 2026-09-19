@@ -108,7 +108,19 @@ weak-entropy or flawed-PRNG key generation.
 - Cahier v21 (19 sept. 2026) : DOI [10.5281/zenodo.22837465](https://zenodo.org/doi/10.5281/zenodo.22837465)
   - Addendum XXIX : Anti-fraude universelle (Axe 1). Scanner géométrique de clés RSA.
     La lunette de l'Addendum v4 devient un outil de diagnostic (AUDIT VERT).
-    Le compagnon anti_fraude/diagnostic_rsa.py (18e) rejoint le pack. 
+    Le compagnon anti_fraude/diagnostic_rsa.py (18e) rejoint le pack.
+- Cahier v22 (19 sept. 2026) : DOI [10.5281/zenodo.22837772](https://zenodo.org/doi/10.5281/zenodo.22837772)
+  - Addendum XXX : Synthèse de l'obstruction universelle. Taxonomie du diviseur forcé (Spearman > 0.98 sur mod 12, 24, 60). 
+    Inclut le refus publié et la correction du bug de valuation. 
+    Le compagnon synthese_diviseur_force.py (19e) rejoint le pack.
+- Cahier v23 (19 sept. 2026) : DOI [10.5281/zenodo.22837954](https://zenodo.org/doi/10.5281/zenodo.22837954)
+  - Addendum XXXI : Lecture adélique. La série singulière comme nombre de Tamagawa. 
+    Le Programme de la Forge est clos. 
+    Le compagnon lecture_adelique.py (20e et dernier) rejoint le pack.
+- Cahier v24 (19 sept. 2026) : DOI [10.5281/zenodo.22840508](https://zenodo.org/doi/10.5281/zenodo.22840508)
+  - Addendum XXXII : Audit étendu des 20 compagnons. Le script maître 
+    `reproduce_all_v3.py` rejoue l'édifice entier en une commande 
+    (EXTENDED GREEN AUDIT, 141 s, 0 alarme). 
 ## Soumission académique
 - **Manuscrit** : "Weighing the obstruction: the smoothness of p-1, its parity signature, and a measured Tamagawa reconstruction of the twin-prime constant"
 - **Revue** : *Experimental Mathematics* (Taylor & Francis)

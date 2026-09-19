@@ -35,3 +35,6 @@
 [PUBLIE] 19 sept. 2026 — Cahier v19, DOI 10.5281/zenodo.22836872
   (Addendum XXVIII : première pierre de la Direction 1. Continuité de S
    mesurée. Réponse concrète à l'exigence de théorème nouveau.)
+[PUBLIE] 19 sept. 2026 — Cahier v24, DOI 10.5281/zenodo.22840508
+  (Addendum XXXII : audit etendu des 20 compagnons. Consolidation du
+   Programme de la Forge. Reproductibilite integree de l'edifice.)

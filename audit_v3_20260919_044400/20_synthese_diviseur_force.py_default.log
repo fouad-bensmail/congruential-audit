@@ -1,0 +1,35 @@
+======================================================================
+synthese_diviseur_force.py -- Taxonomie universelle (Rang 3)
+======================================================================
+Echelle : X = 5000000, u = 2 (lissite P+(m) <= m^(1/2))
+Generation du crible des plus grands facteurs premiers...
+Crible pret.
+
+--- MODULE M = 12 ---
+  Classes coprimes : 4
+  Familles jumelles : 4
+  Spearman (theorique vs empirique) : 1.0000  (Garde : > 0.95)
+  Ratio Variance Inter/Intra : inf  (Garde : > 10)
+  Statut : OK
+
+--- MODULE M = 24 ---
+  Classes coprimes : 8
+  Familles jumelles : 6
+  Spearman (theorique vs empirique) : 0.9880  (Garde : > 0.95)
+  Ratio Variance Inter/Intra : 5608.28  (Garde : > 10)
+  Statut : OK
+
+--- MODULE M = 60 ---
+  Classes coprimes : 16
+  Familles jumelles : 8
+  Spearman (theorique vs empirique) : 0.9882  (Garde : > 0.95)
+  Ratio Variance Inter/Intra : 3786.36  (Garde : > 10)
+  Statut : OK
+
+----------------------------------------------------------------------
+VERDICT : AUDIT VERT
+  La taxonomie universelle est confirmee.
+  L'obstruction n'est qu'une projection du diviseur force.
+
+Temps : 1.65 s
+[OK]
