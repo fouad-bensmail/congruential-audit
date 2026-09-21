@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+
+# =============================================================================
+# Copyright (c) 2026 Fouad Bensmail — Tous droits réservés / All rights reserved.
+# Licence / License : CC BY-NC 4.0 — https://creativecommons.org/licenses/by-nc/4.0/
+# Utilisation commerciale interdite sans autorisation écrite de l'auteur.
+# Non-commercial use only. Commercial use prohibited without written consent.
+# =============================================================================
 """
 fermat_tronque.py — case vide 4 de la table de Mendeleïev (Note X, §6)
 Constante de Fermat tronque : dans la fenetre ancree (parite, Note VII),

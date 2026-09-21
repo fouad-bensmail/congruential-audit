@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+
+# =============================================================================
+# Copyright (c) 2026 Fouad Bensmail — Tous droits réservés / All rights reserved.
+# Licence / License : CC BY-NC 4.0 — https://creativecommons.org/licenses/by-nc/4.0/
+# Utilisation commerciale interdite sans autorisation écrite de l'auteur.
+# Non-commercial use only. Commercial use prohibited without written consent.
+# =============================================================================
 """
 obstruction_parite.py — premier compagnon de la Conjecture du Cadre
 (Remarque 5.3 du cadre v3) : signature de parite sur P+(p-1) selon p mod 4.

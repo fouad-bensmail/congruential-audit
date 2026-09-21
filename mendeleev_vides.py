@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+
+# =============================================================================
+# Copyright (c) 2026 Fouad Bensmail — Tous droits réservés / All rights reserved.
+# Licence / License : CC BY-NC 4.0 — https://creativecommons.org/licenses/by-nc/4.0/
+# Utilisation commerciale interdite sans autorisation écrite de l'auteur.
+# Non-commercial use only. Commercial use prohibited without written consent.
+# =============================================================================
 """
 mendeleev_vides.py — cases vides de la table de Mendeleïev (Note X, §6) — labo privé
 Case 1 : seconde famille de triplets (p, p+4, p+6) : prédiction = même constante S3.

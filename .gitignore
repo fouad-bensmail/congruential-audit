@@ -1,2 +1,30 @@
-_pycache_/ 
-*.pyc 
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# --- LaTeX (fichiers de compilation, régénérables) ---
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# --- Dossiers d'audit horodatés (régénérables par reproduce_all_*.py, archivés sur Zenodo) ---
+audit_2026*/
+audit_v2_2026*/
+audit_v3_2026*/
+
+# --- Archives zip (snapshots déjà versionnés par git et Zenodo) ---
+*.zip
+
+# --- Fichiers système ---
+.DS_Store
+Thumbs.db
+
+# NOTE : les PDF livrables (addendum_v4*.pdf) sont conservés dans git
+# pour la preuve d'antériorité horodatée. Ils sont aussi sur Zenodo.
+# Registre de chasse (etat transitoire, regenere a chaque course)
+hunt_log.json

@@ -38,3 +38,9 @@
 [PUBLIE] 19 sept. 2026 — Cahier v24, DOI 10.5281/zenodo.22840508
   (Addendum XXXII : audit etendu des 20 compagnons. Consolidation du
    Programme de la Forge. Reproductibilite integree de l'edifice.)
+[PUBLIE] 19 sept. 2026 — Cahier v25, DOI 10.5281/zenodo.22849609
+  (Addendum XXXIII : extinction monotone de C1 a 10^8, reponse a l'evaluation
+   externe, deux refus de code publies, garde de densite globale ajoutee.)
+[PUBLIE] 20 sept. 2026 — Cahier v26, DOI 10.5281/zenodo.22849756
+  (Addendum XXXIV : structure oscillante du residu de C1, exposant alpha > 1,
+   ouverture mesuree vers les zeros de fonctions L de Dirichlet.)

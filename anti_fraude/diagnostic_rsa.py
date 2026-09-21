@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
+# =============================================================================
+# Copyright (c) 2026 Fouad Bensmail — Tous droits réservés / All rights reserved.
+# Licence / License : CC BY-NC 4.0 — https://creativecommons.org/licenses/by-nc/4.0/
+# Utilisation commerciale interdite sans autorisation écrite de l'auteur.
+# Non-commercial use only. Commercial use prohibited without written consent.
+# =============================================================================
 """
 diagnostic_rsa.py -- Scanner geometrique de cles RSA publiques.
 Addendum XXIX, Anti-Fraude Universelle Axe 1. Compagnon n.18.

@@ -1,3 +1,12 @@
+> **© 2026 Fouad Bensmail — Tous droits réservés.**
+> Cette œuvre est mise à disposition selon les termes de la licence
+> [Creative Commons Attribution - Pas d'Utilisation Commerciale 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+> **Toute utilisation commerciale est interdite** sans l'autorisation écrite expresse de l'auteur.
+>
+> [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22849756.svg)](https://doi.org/10.5281/zenodo.22849756)
+
+---
 Fouad Bensmail - ORCID: [0009-0006-9541-4207](https://orcid.org/0009-0006-9541-4207)
 # congruential-audit
 
@@ -120,7 +129,21 @@ weak-entropy or flawed-PRNG key generation.
 - Cahier v24 (19 sept. 2026) : DOI [10.5281/zenodo.22840508](https://zenodo.org/doi/10.5281/zenodo.22840508)
   - Addendum XXXII : Audit étendu des 20 compagnons. Le script maître 
     `reproduce_all_v3.py` rejoue l'édifice entier en une commande 
-    (EXTENDED GREEN AUDIT, 141 s, 0 alarme). 
+    (EXTENDED GREEN AUDIT, 141 s, 0 alarme).
+- Cahier v25 (19 sept. 2026) : DOI [10.5281/zenodo.22849609](https://zenodo.org/doi/10.5281/zenodo.22849609)
+  - Addendum XXXIII : Extinction du terme croisé de Dickman (C1) à 10⁸.
+    Contraction monotone ×1,15 à ×1,50 entre 10⁶ et 10⁸ sur les 8 mesures
+    (4 classes × 2 valeurs de u). Réponse directe à l'objection du relecteur
+    (Addendum XXVII, point 2).
+  - Deux refus de code publiés (v1 : mauvaise couche + normalisation ;
+    v2 : décalage d'indice GPF détecté par la nouvelle garde de densité globale).
+  - Compagnon terme_croise_10e8.py (22ᵉ) rejoint le pack.
+- Cahier v26 (20 sept. 2026) : DOI [10.5281/zenodo.22849756](https://zenodo.org/doi/10.5281/zenodo.22849756)
+  - Addendum XXXIV : Sonde des résidus du terme croisé (C1). Le résidu porte une 
+    oscillation structurée (autocorrélation lag-1 ρ1 in [0.62, 0.76]) et l'extinction 
+    suit une loi de puissance 1/(log X)^alpha avec alpha in [1.6, 2.6]. Ouverture 
+    mesurée vers les zéros de fonctions L de Dirichlet.
+  - Compagnon sonde_residus.py (23e) rejoint le pack. 
 ## Soumission académique
 - **Manuscrit** : "Weighing the obstruction: the smoothness of p-1, its parity signature, and a measured Tamagawa reconstruction of the twin-prime constant"
 - **Revue** : *Experimental Mathematics* (Taylor & Francis)

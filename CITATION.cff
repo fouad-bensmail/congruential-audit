@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Si vous réutilisez ce travail, merci de le citer comme suit."
+title: "Congruential-audit : obstruction locale, lissité de p-1 et outils d'anti-fraude"
+type: software
+authors:
+  - family-names: Bensmail
+    given-names: Fouad
+    orcid: "https://orcid.org/0009-0006-9541-4207"
+license: CC-BY-NC-4.0
+version: v26
+doi: 10.5281/zenodo.22849756
+date-released: 2026-09-20
+url: "https://github.com/fouad-bensmail/fouad-bensmail.github.io"
+repository-code: "https://github.com/fouad-bensmail/fouad-bensmail.github.io"
