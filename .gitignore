@@ -16,6 +16,7 @@ venv/
 audit_2026*/
 audit_v2_2026*/
 audit_v3_2026*/
+audit_v4_*/
 
 # --- Archives zip (snapshots déjà versionnés par git et Zenodo) ---
 *.zip
@@ -26,5 +27,6 @@ Thumbs.db
 
 # NOTE : les PDF livrables (addendum_v4*.pdf) sont conservés dans git
 # pour la preuve d'antériorité horodatée. Ils sont aussi sur Zenodo.
+
 # Registre de chasse (etat transitoire, regenere a chaque course)
 hunt_log.json

@@ -91,12 +91,12 @@ weak-entropy or flawed-PRNG key generation.
 - **Cahier v12** (15 sept. 2026) : DOI [10.5281/zenodo.22765398](https://zenodo.org/doi/10.5281/zenodo.22765398)
   Addenda XII–XXI. Nouveauté v12 : Addendum XXI (script maître `reproduce_all.py`, AUDIT VERT 10/10 en 21,6 s).
 
-- **Cahier v13** (15 sept. 2026) : DOI 10.5281/zenodo.22798488 —
+- **Cahier v13** (15 sept. 2026) : DOI [10.5281/zenodo.22798488](https://zenodo.org/doi/10.5281/zenodo.22798488)
   Addenda XII–XXII. Nouveauté v13 : XXII (obstruction_modM : le diviseur
   forcé universel, cartographie mod 24/30/60/64, 3 AUDIT VERT + 1 drapeau
   expliqué). Le compagnon paramétrique obstruction_modM.py rejoint le pack.
 
-- **Cahier v14** (15 sept. 2026) : DOI 10.5281/zenodo.22799566 —
+- **Cahier v14** (15 sept. 2026) : DOI [10.5281/zenodo.22799566](https://zenodo.org/doi/10.5281/zenodo.22799566)
   Addenda XII–XXIII. Nouveauté v14 : XXIII (tamagawa_motifs : transfert
   Tamagawa universel, 6 motifs admissibles, poignée 2C2 à 1,2e-7).
   Le compagnon tamagawa_motifs.py rejoint le pack.
