@@ -44,3 +44,6 @@
 [PUBLIE] 20 sept. 2026 — Cahier v26, DOI 10.5281/zenodo.22849756
   (Addendum XXXIV : structure oscillante du residu de C1, exposant alpha > 1,
    ouverture mesuree vers les zeros de fonctions L de Dirichlet.)
+[PUBLIE] 22 sept. 2026 — Cahier v28, DOI 10.5281/zenodo.22900934
+  (Addendum XXXVI : l'Echelle Spectrale, FFT du residu de C1,
+   pics spectraux correspondant aux zeros de zeta.)

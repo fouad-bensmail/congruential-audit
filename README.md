@@ -4,7 +4,7 @@ Cette œuvre est mise à disposition selon les termes de la licence
 Toute utilisation commerciale est interdite sans l'autorisation écrite expresse de l'auteur.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22886686.svg)](https://doi.org/10.5281/zenodo.22886686)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22900934.svg)](https://doi.org/10.5281/zenodo.22900934)
 
 Fouad Bensmail - ORCID: [0009-0006-9541-4207](https://orcid.org/0009-0006-9541-4207)
 
@@ -168,6 +168,14 @@ weak-entropy or flawed-PRNG key generation.
   lissité à +6,34 σ contre l'aléa véritable. GLIBC et MINSTD conformes.
   Deux refus publiés (v1 : graine paire masquée ; v2 : z-score omis).
   Compagnon audit_lcg.py (24ᵉ) rejoint le pack.
+
+- **Cahier v28** (22 sept. 2026) : DOI [10.5281/zenodo.22900934](https://zenodo.org/doi/10.5281/zenodo.22900934)
+  Addendum XXXVI : l'Échelle Spectrale. FFT sur le résidu normalisé du terme
+  croisé (C1), 300 paliers entre 10⁶ et 10⁸. Pics spectraux détectés à
+  t = 13.6, 21.8, 23.1, 24.5, 27.2, 29.9, 39.4 ; trois correspondent aux
+  zéros de ζ à moins de 0.5. Deux refus publiés (v1 : règle individuelle ;
+  v2 : variable de régression + soustraction de tendance).
+  Compagnon sonde_spectrale.py (25ᵉ) rejoint le pack.
 
 ## Soumission académique
 
