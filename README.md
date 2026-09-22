@@ -4,7 +4,7 @@ Cette œuvre est mise à disposition selon les termes de la licence
 Toute utilisation commerciale est interdite sans l'autorisation écrite expresse de l'auteur.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22900934.svg)](https://doi.org/10.5281/zenodo.22900934)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22901622.svg)](https://doi.org/10.5281/zenodo.22901622)
 
 Fouad Bensmail - ORCID: [0009-0006-9541-4207](https://orcid.org/0009-0006-9541-4207)
 
@@ -176,6 +176,17 @@ weak-entropy or flawed-PRNG key generation.
   zéros de ζ à moins de 0.5. Deux refus publiés (v1 : règle individuelle ;
   v2 : variable de régression + soustraction de tendance).
   Compagnon sonde_spectrale.py (25ᵉ) rejoint le pack.
+
+- **Cahier v29** (23 sept. 2026) : DOI [10.5281/zenodo.22901622](https://zenodo.org/doi/10.5281/zenodo.22901622)
+  Addendum XXXVII : Spectre étendu. Raffinement méthodologique publié : la
+  résolution fréquentielle d'une FFT dépend de l'étendue logarithmique totale.
+  Fenêtre élargie [10⁵, 10⁸], 600 paliers, fenêtre de Hann, résolution Δt = 0,91
+  (vs 1,36 dans la v28). 15 correspondances aux zéros de ζ (écart < 0,60),
+  dont t = 40,86 vs 40,919 (écart 0,06) et t = 20,89 vs 21,022 (écart 0,14).
+  Refus v1 publié (α > 3 sur la fenêtre complète) ; v2 restreint la régression
+  à [10⁶, 10⁸]. Pics à bas t (4,54 ; 5,45 ; 7,26) suggèrent les premiers
+  zéros des fonctions L de Dirichlet mod 12.
+  Compagnon spectre_etendu.py (26ᵉ) rejoint le pack.
 
 ## Soumission académique
 

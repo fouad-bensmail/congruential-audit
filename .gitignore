@@ -12,7 +12,7 @@ venv/
 *.toc
 *.synctex.gz
 
-# --- Dossiers d'audit horodatés (régénérables par reproduce_all_*.py, archivés sur Zenodo) ---
+# --- Dossiers d'audit horodatés (régénérables par reproduce_all_*.py) ---
 audit_2026*/
 audit_v2_2026*/
 audit_v3_2026*/
