@@ -47,6 +47,7 @@ SCRIPTS = [
     ("lecture_adelique.py", [], "Addendum XXXI"),
     ("terme_croise_10e8.py", [], "Addendum XXXIII"),
     ("sonde_residus.py", [], "Addendum XXXIV"),
+    ("sonde_spectrale.py", [], "Addendum XXXVI"),
     ("audit_lcg.py", [], "Addendum XXXV"),
 ]
 
