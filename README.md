@@ -4,7 +4,7 @@ Cette œuvre est mise à disposition selon les termes de la licence
 Toute utilisation commerciale est interdite sans l'autorisation écrite expresse de l'auteur.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22910817.svg)](https://doi.org/10.5281/zenodo.22910817)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22919215.svg)](https://doi.org/10.5281/zenodo.22919215)
 
 Fouad Bensmail - ORCID: [0009-0006-9541-4207](https://orcid.org/0009-0006-9541-4207)
 
@@ -157,7 +157,7 @@ weak-entropy or flawed-PRNG key generation.
 
 - **Cahier v26** (20 sept. 2026) : DOI [10.5281/zenodo.22849756](https://zenodo.org/doi/10.5281/zenodo.22849756)
   Addendum XXXIV : Sonde des résidus du terme croisé (C1). Le résidu porte une
-  oscillation structurée (autocorrélation lag-1 1 in [0.62, 0.76]) et l'extinction
+  oscillation structurée (autocorrélation lag-1 ρ1 in [0.62, 0.76]) et l'extinction
   suit une loi de puissance 1/(log X)^alpha avec alpha in [1.6, 2.6]. Ouverture
   mesurée vers les zéros de fonctions L de Dirichlet.
   Compagnon sonde_residus.py (23e) rejoint le pack.
@@ -180,13 +180,13 @@ weak-entropy or flawed-PRNG key generation.
 - **Cahier v29** (23 sept. 2026) : DOI [10.5281/zenodo.22901622](https://zenodo.org/doi/10.5281/zenodo.22901622)
   Addendum XXXVII : Spectre étendu. Raffinement méthodologique publié : la
   résolution fréquentielle d'une FFT dépend de l'étendue logarithmique totale.
-  Fenêtre élargie [10, 10⁸], 600 paliers, fenêtre de Hann, résolution Δt = 0,91
+  Fenêtre élargie [10⁵, 10⁸], 600 paliers, fenêtre de Hann, résolution Δt = 0,91
   (vs 1,36 dans la v28). 15 correspondances aux zéros de ζ (écart < 0,60),
   dont t = 40,86 vs 40,919 (écart 0,06) et t = 20,89 vs 21,022 (écart 0,14).
   Refus v1 publié (α > 3 sur la fenêtre complète) ; v2 restreint la régression
   à [10⁶, 10⁸]. Pics à bas t (4,54 ; 5,45 ; 7,26) suggèrent les premiers
   zéros des fonctions L de Dirichlet mod 12.
-  Compagnon spectre_etendu.py (26) rejoint le pack.
+  Compagnon spectre_etendu.py (26ᵉ) rejoint le pack.
 
 - **Cahier v30** (23 sept. 2026) : DOI [10.5281/zenodo.22908992](https://zenodo.org/doi/10.5281/zenodo.22908992)
   Addendum XXXVIII : le rang de l'obstruction. SVD de la matrice des log-marges
@@ -197,7 +197,7 @@ weak-entropy or flawed-PRNG key generation.
   Compagnon obstruction_svd.py (27ᵉ) rejoint le pack.
 
 - **Cahier v31** (23 sept. 2026) : DOI [10.5281/zenodo.22909499](https://zenodo.org/doi/10.5281/zenodo.22909499)
-  Addendum XXXIX : le cristal à 10⁹. Crible échantillonné (120 fenêtres de 10,
+  Addendum XXXIX : le cristal à 10⁹. Crible échantillonné (120 fenêtres de 10⁶,
   estimateur pondéré sans biais) : le rang 1 tient jusqu'à 10⁹ sans porter la
   table GPF de 4 Go. Raffinement publié : le modèle binomial à n_eff sous-estime
   la variance de l'estimateur pondéré (facteur 3,01, recalibré sur l'ancre 10⁷).
@@ -215,6 +215,16 @@ weak-entropy or flawed-PRNG key generation.
   d'injection à venir. Deux refus publiés (v1 : cmath.gamma ; v2 : signe de
   l'intégrale Euler–Maclaurin).
   Compagnon zeros_dirichlet.py (29ᵉ) rejoint le pack.
+
+- **Cahier v33** (24 sept. 2026) : DOI [10.5281/zenodo.22919215](https://zenodo.org/doi/10.5281/zenodo.22919215)
+  Addendum XLI : test d'injection spectrale et refus de l'hypothèse Dirichlet mod 12
+  pour les pics bas-t. Le modèle d'injection (cos/sin des zéros de χ12 calculés)
+  n'explique que 3,8 % de la variance (R2 = 0,038). Les pics orphelins (4,54 ; 5,45 ;
+  7,26) persistent après nettoyage, prouvant qu'ils ne sont pas des harmoniques de
+  χ12, mais probablement de la fuite spectrale ou de la covariance inter-modules.
+  Le cristal haut-t (zéros de ζ) reste intact. Boucle fermée par un refus publié,
+  conformément à l'Article II.
+  Compagnon injection_spectrale.py (30ᵉ) rejoint le pack.
 
 ## Soumission académique
 
