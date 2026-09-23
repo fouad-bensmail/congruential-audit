@@ -4,7 +4,7 @@ Cette œuvre est mise à disposition selon les termes de la licence
 Toute utilisation commerciale est interdite sans l'autorisation écrite expresse de l'auteur.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22908992.svg)](https://doi.org/10.5281/zenodo.22908992)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22909499.svg)](https://doi.org/10.5281/zenodo.22909499)
 
 Fouad Bensmail - ORCID: [0009-0006-9541-4207](https://orcid.org/0009-0006-9541-4207)
 
@@ -197,6 +197,17 @@ weak-entropy or flawed-PRNG key generation.
   familles jumelles ont un résidu au niveau du bruit. Inspiration publiée :
   E. Tang (STOC'19), l'hypothèse de rang faible mesurée au lieu d'être supposée.
   Compagnon obstruction_svd.py (27ᵉ) rejoint le pack.
+
+- **Cahier v31** (23 sept. 2026) : DOI [10.5281/zenodo.22909499](https://zenodo.org/doi/10.5281/zenodo.22909499)
+  Addendum XXXIX : le crible échantillonné. Applique la philosophie de Tang
+  (STOC'19) : l'accès par échantillonnage remplace l'accès complet. 120
+  fenêtres aléatoires de 10⁶ poussent le test de rang jusqu'à 10⁹ sans
+  porter la table GPF de 4 Go. Raffinement méthodologique publié : le modèle
+  de bruit binomial sous-estime la variance de l'estimateur pondéré d'un
+  facteur ~3,01. Une fois recalibré sur l'ancre 10⁷, le ratio résidu/bruit
+  tombe à 1,07 (10⁸) et 0,86 (10⁹). Le cristal de rang 1 tient parfaitement
+  jusqu'à 10⁹, sans qu'aucun σ₂ n'émerge.
+  Compagnon crible_echantillonne.py (28ᵉ) rejoint le pack.
 
 ## Soumission académique
 
