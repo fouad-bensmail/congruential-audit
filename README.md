@@ -4,7 +4,7 @@ Cette œuvre est mise à disposition selon les termes de la licence
 Toute utilisation commerciale est interdite sans l'autorisation écrite expresse de l'auteur.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22909499.svg)](https://doi.org/10.5281/zenodo.22909499)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22910817.svg)](https://doi.org/10.5281/zenodo.22910817)
 
 Fouad Bensmail - ORCID: [0009-0006-9541-4207](https://orcid.org/0009-0006-9541-4207)
 
@@ -157,7 +157,7 @@ weak-entropy or flawed-PRNG key generation.
 
 - **Cahier v26** (20 sept. 2026) : DOI [10.5281/zenodo.22849756](https://zenodo.org/doi/10.5281/zenodo.22849756)
   Addendum XXXIV : Sonde des résidus du terme croisé (C1). Le résidu porte une
-  oscillation structurée (autocorrélation lag-1 ρ1 in [0.62, 0.76]) et l'extinction
+  oscillation structurée (autocorrélation lag-1 1 in [0.62, 0.76]) et l'extinction
   suit une loi de puissance 1/(log X)^alpha avec alpha in [1.6, 2.6]. Ouverture
   mesurée vers les zéros de fonctions L de Dirichlet.
   Compagnon sonde_residus.py (23e) rejoint le pack.
@@ -180,34 +180,41 @@ weak-entropy or flawed-PRNG key generation.
 - **Cahier v29** (23 sept. 2026) : DOI [10.5281/zenodo.22901622](https://zenodo.org/doi/10.5281/zenodo.22901622)
   Addendum XXXVII : Spectre étendu. Raffinement méthodologique publié : la
   résolution fréquentielle d'une FFT dépend de l'étendue logarithmique totale.
-  Fenêtre élargie [10⁵, 10⁸], 600 paliers, fenêtre de Hann, résolution Δt = 0,91
+  Fenêtre élargie [10, 10⁸], 600 paliers, fenêtre de Hann, résolution Δt = 0,91
   (vs 1,36 dans la v28). 15 correspondances aux zéros de ζ (écart < 0,60),
   dont t = 40,86 vs 40,919 (écart 0,06) et t = 20,89 vs 21,022 (écart 0,14).
   Refus v1 publié (α > 3 sur la fenêtre complète) ; v2 restreint la régression
   à [10⁶, 10⁸]. Pics à bas t (4,54 ; 5,45 ; 7,26) suggèrent les premiers
   zéros des fonctions L de Dirichlet mod 12.
-  Compagnon spectre_etendu.py (26ᵉ) rejoint le pack.
+  Compagnon spectre_etendu.py (26) rejoint le pack.
 
 - **Cahier v30** (23 sept. 2026) : DOI [10.5281/zenodo.22908992](https://zenodo.org/doi/10.5281/zenodo.22908992)
   Addendum XXXVIII : le rang de l'obstruction. SVD de la matrice des log-marges
-  de lissité L[(M,a), u] (28 classes × 4 profondeurs). L'obstruction est un
-  produit externe de rang 1 (99,20 % de la variance) : L ≈ κ(u) · ln d(a),
-  avec amplification quasi-linéaire κ(u) = 1,000 ; 2,345 ; 3,979 ; 5,708.
-  Le drapeau de l'Addendum XXII (persistance mod 30) est absorbé : les
-  familles jumelles ont un résidu au niveau du bruit. Inspiration publiée :
-  E. Tang (STOC'19), l'hypothèse de rang faible mesurée au lieu d'être supposée.
+  (28 classes × 4 profondeurs) : produit externe de rang 1, 99,20 % de la
+  variance, L ≈ κ(u)·ln d(a) avec κ = 1,000 ; 2,345 ; 3,979 ; 5,708.
+  Le drapeau mod 30 de l'Addendum XXII est absorbé (familles jumelles = rang 1).
+  Inspiration publiée : E. Tang, STOC'19 (rang faible mesuré, non supposé).
   Compagnon obstruction_svd.py (27ᵉ) rejoint le pack.
 
 - **Cahier v31** (23 sept. 2026) : DOI [10.5281/zenodo.22909499](https://zenodo.org/doi/10.5281/zenodo.22909499)
-  Addendum XXXIX : le crible échantillonné. Applique la philosophie de Tang
-  (STOC'19) : l'accès par échantillonnage remplace l'accès complet. 120
-  fenêtres aléatoires de 10⁶ poussent le test de rang jusqu'à 10⁹ sans
-  porter la table GPF de 4 Go. Raffinement méthodologique publié : le modèle
-  de bruit binomial sous-estime la variance de l'estimateur pondéré d'un
-  facteur ~3,01. Une fois recalibré sur l'ancre 10⁷, le ratio résidu/bruit
-  tombe à 1,07 (10⁸) et 0,86 (10⁹). Le cristal de rang 1 tient parfaitement
-  jusqu'à 10⁹, sans qu'aucun σ₂ n'émerge.
+  Addendum XXXIX : le cristal à 10⁹. Crible échantillonné (120 fenêtres de 10,
+  estimateur pondéré sans biais) : le rang 1 tient jusqu'à 10⁹ sans porter la
+  table GPF de 4 Go. Raffinement publié : le modèle binomial à n_eff sous-estime
+  la variance de l'estimateur pondéré (facteur 3,01, recalibré sur l'ancre 10⁷).
   Compagnon crible_echantillonne.py (28ᵉ) rejoint le pack.
+
+- **Cahier v32** (23 sept. 2026) : DOI [10.5281/zenodo.22910817](https://zenodo.org/doi/10.5281/zenodo.22910817)
+  Addendum XL : les zéros bas-t calculés dans l'atelier, et l'identification
+  partiellement refusée. Ferme la boucle de l'Addendum XXXIV. L'instrument
+  maison (log-gamma de Lanczos, queues d'Euler–Maclaurin, fonction Z de Hardy)
+  calcule les zéros de ζ et des fonctions L de Dirichlet mod 3, 4, 12 sans
+  table extérieure. Validé sur ζ (14,134725) et sur la bêta (6,0209).
+  L'identification des pics bas-t de l'Addendum XXXVII est partiellement refusée :
+  2 sur 5 s'alignent sur χ12 (9,08 et 10,90) ; les trois orphelins (4,54 ; 5,45 ;
+  7,26) ne sont pas des zéros de Dirichlet mod 12 — ouverture mesurée, test
+  d'injection à venir. Deux refus publiés (v1 : cmath.gamma ; v2 : signe de
+  l'intégrale Euler–Maclaurin).
+  Compagnon zeros_dirichlet.py (29ᵉ) rejoint le pack.
 
 ## Soumission académique
 
