@@ -4,7 +4,7 @@ Cette œuvre est mise à disposition selon les termes de la licence
 Toute utilisation commerciale est interdite sans l'autorisation écrite expresse de l'auteur.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22901622.svg)](https://doi.org/10.5281/zenodo.22901622)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22908992.svg)](https://doi.org/10.5281/zenodo.22908992)
 
 Fouad Bensmail - ORCID: [0009-0006-9541-4207](https://orcid.org/0009-0006-9541-4207)
 
@@ -187,6 +187,16 @@ weak-entropy or flawed-PRNG key generation.
   à [10⁶, 10⁸]. Pics à bas t (4,54 ; 5,45 ; 7,26) suggèrent les premiers
   zéros des fonctions L de Dirichlet mod 12.
   Compagnon spectre_etendu.py (26ᵉ) rejoint le pack.
+
+- **Cahier v30** (23 sept. 2026) : DOI [10.5281/zenodo.22908992](https://zenodo.org/doi/10.5281/zenodo.22908992)
+  Addendum XXXVIII : le rang de l'obstruction. SVD de la matrice des log-marges
+  de lissité L[(M,a), u] (28 classes × 4 profondeurs). L'obstruction est un
+  produit externe de rang 1 (99,20 % de la variance) : L ≈ κ(u) · ln d(a),
+  avec amplification quasi-linéaire κ(u) = 1,000 ; 2,345 ; 3,979 ; 5,708.
+  Le drapeau de l'Addendum XXII (persistance mod 30) est absorbé : les
+  familles jumelles ont un résidu au niveau du bruit. Inspiration publiée :
+  E. Tang (STOC'19), l'hypothèse de rang faible mesurée au lieu d'être supposée.
+  Compagnon obstruction_svd.py (27ᵉ) rejoint le pack.
 
 ## Soumission académique
 
