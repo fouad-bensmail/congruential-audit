@@ -4,7 +4,7 @@ Cette œuvre est mise à disposition selon les termes de la licence
 Toute utilisation commerciale est interdite sans l'autorisation écrite expresse de l'auteur.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22929438.svg)](https://doi.org/10.5281/zenodo.22929438)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22930061.svg)](https://doi.org/10.5281/zenodo.22930061)
 
 Fouad Bensmail - ORCID: [0009-0006-9541-4207](https://orcid.org/0009-0006-9541-4207)
 
@@ -232,6 +232,8 @@ weak-entropy or flawed-PRNG key generation.
   structurellement plus lisse aux grandes profondeurs 2-adiques (+73 % à u=5, une fois l'effet
   mécanique soustrait). Conjecture arithmétique ouverte et mesurée. Ouverture de la Voie B (Article VII).
   Le compagnon grammaire_dyadique.py (31ᵉ) rejoint le pack.
+- **Cahier v35** (24 sept. 2026) : DOI [10.5281/zenodo.22930061](https://doi.org/10.5281/zenodo.22930061)
+  Addendum XLIII : enchevetrement_modules. Test d'universalité de l'enchevêtrement dyadique (Addendum XLII) sous conditionnement par des congruences impaires (mod 3, mod 5). Refus publié (v1 : protocole dégénéré, c1 mod 2^j = strate dyadique). Recalibration publiée (G0 densité cumulative). Découverte d'un couplage inter-modulaire : l'enchevêtrement est directionnellement universel (6/6 classes avec z > 0) mais sélectivement amplifié par les volumes forcés impairs (c1 mod 3 et c1 mod 5). Pendant dyadique du terme croisé de Dickman. Le compagnon enchevetrement_modules.py (32ᵉ) rejoint le pack.
 
 ## Soumission académique
 

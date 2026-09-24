@@ -55,6 +55,7 @@ SCRIPTS = [
     ("zeros_dirichlet.py", [], "Addendum XL"),
     ("injection_spectrale.py", [], "Addendum XLI"),
     ("grammaire_dyadique.py", [], "Addendum XLII"),
+    ("enchevetrement_modules.py", [], "Addendum XLIII"),
 ]
 
 
