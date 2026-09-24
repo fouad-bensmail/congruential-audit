@@ -4,7 +4,7 @@ Cette œuvre est mise à disposition selon les termes de la licence
 Toute utilisation commerciale est interdite sans l'autorisation écrite expresse de l'auteur.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22919215.svg)](https://doi.org/10.5281/zenodo.22919215)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22929438.svg)](https://doi.org/10.5281/zenodo.22929438)
 
 Fouad Bensmail - ORCID: [0009-0006-9541-4207](https://orcid.org/0009-0006-9541-4207)
 
@@ -225,6 +225,13 @@ weak-entropy or flawed-PRNG key generation.
   Le cristal haut-t (zéros de ζ) reste intact. Boucle fermée par un refus publié,
   conformément à l'Article II.
   Compagnon injection_spectrale.py (30ᵉ) rejoint le pack.
+
+- **Cahier v34** (24 sept. 2026) : DOI [10.5281/zenodo.22929438](https://doi.org/10.5281/zenodo.22929438)
+  Addendum XLII : grammaire_dyadique. Décomposition de l'amplification extrême mod 64 (+824 % à u=5).
+  Découverte de l'enchevêtrement dyadique en profondeur : la partie impaire m = (p-1)/2^k est
+  structurellement plus lisse aux grandes profondeurs 2-adiques (+73 % à u=5, une fois l'effet
+  mécanique soustrait). Conjecture arithmétique ouverte et mesurée. Ouverture de la Voie B (Article VII).
+  Le compagnon grammaire_dyadique.py (31ᵉ) rejoint le pack.
 
 ## Soumission académique
 
