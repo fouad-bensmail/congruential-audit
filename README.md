@@ -245,6 +245,13 @@ weak-entropy or flawed-PRNG key generation.
   Évaluation externe III publiée : le paradoxe R²_in = -0,23 / R²_pred = +0,52 est lu comme
   une non-stationnarité orientée en échelle du résidu de C1. La Direction Spectrale
   (XXXIV–XLVI) est close par clarification, non par refus. Pas de compagnon nouveau.
+> **Refus Git publié (25 sept. 2026).** Les états v37 et v38 n'ont pas été
+> commités en leur temps : leurs compagnons (`null_stratifie.py`,
+> `injection_zeta.py`, `crible_echantillonne.py`, `requirements.txt`) ne
+> sont entrés au dépôt qu'au commit `a80d070` (v39). Les tags `cahier-v37`
+> et `cahier-v38`, absents ou mal pointés, ont été recoupés sur `a80d070`
+> avec annotation de coupe tardive. Les DOI Zenodo v37 et v38 demeurent
+> l'archive de référence de ces états.
 
 ## Soumission académique
 
