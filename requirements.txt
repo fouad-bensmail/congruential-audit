@@ -1,0 +1,4 @@
+# congruential-audit — dependances de reproduction
+# Python >= 3.10 (atelier teste sur Python 3.14)
+# Unique dependance externe : numpy. Tout le reste est bibliotheque standard.
+numpy>=1.26

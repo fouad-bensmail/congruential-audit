@@ -4,8 +4,7 @@ Cette œuvre est mise à disposition selon les termes de la licence
 Toute utilisation commerciale est interdite sans l'autorisation écrite expresse de l'auteur.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22931155.svg)](https://doi.org/10.5281/zenodo.22931155)
-
+[![DOI][![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22950183.svg)](https://doi.org/10.5281/zenodo.22950183)
 Fouad Bensmail - ORCID: [0009-0006-9541-4207](https://orcid.org/0009-0006-9541-4207)
 
 # congruential-audit
@@ -236,6 +235,16 @@ weak-entropy or flawed-PRNG key generation.
   Addendum XLIII : enchevetrement_modules. Test d'universalité de l'enchevêtrement dyadique (Addendum XLII) sous conditionnement par des congruences impaires (mod 3, mod 5). Refus publié (v1 : protocole dégénéré, c1 mod 2^j = strate dyadique). Recalibration publiée (G0 densité cumulative). Découverte d'un couplage inter-modulaire : l'enchevêtrement est directionnellement universel (6/6 classes avec z > 0) mais sélectivement amplifié par les volumes forcés impairs (c1 mod 3 et c1 mod 5). Pendant dyadique du terme croisé de Dickman. Le compagnon enchevetrement_modules.py (32ᵉ) rejoint le pack.
 - **Cahier v36** (24 sept. 2026) : DOI [10.5281/zenodo.22931155](https://doi.org/10.5281/zenodo.22931155)
   Addendum XLIV : carte_dyadique. La carte de l'enchevêtrement dyadique sur l'espace des structures à 10^8. Trois gardes tombent et livrent trois vérités : (1) le couplage inter-modulaire n'est pas monotone mais présente une résonance (pic en q=7, 11) ; (2) la famille Sophie Germain ne présente pas de super-enchevêtrement mais une saturation (la contrainte de primalité aplatit le gradient dyadique) ; (3) l'enchevêtrement traverse l'espace des motifs (jumeaux, cousins, sexy) avec une amplitude atténuée. L'ancre globale à 10^8 confirme massivement l'Addendum XLII (>10 sigmas). Le compagnon carte_dyadique.py (33ᵉ) rejoint le pack.
+- **Cahier v37** (24 sept. 2026) : DOI [10.5281/zenodo.22932193](https://doi.org/10.5281/zenodo.22932193)
+  Addendum XLV : null_stratifie. Retombée cryptographique de la saturation des premiers de Sophie Germain (Addendum XLIV) sur l'Axe 2 de l'Anti-Fraude. Un générateur conforme de premiers SG audité contre le Nul Global lève un faux drapeau de fraude à -4,85 sigma. La stratification du modèle nul par famille déclarée restaure la conformité (z = +0,67). Dégénérescence mesurée des premiers Sûrs (k=1 et m premier à 99,997 %). Refus publiés (v1 : bug ChaCha20 abandonné au profit de numpy.random ; v2 : comparaison erronée et manque de puissance statistique). Le compagnon null_stratifie.py (34ᵉ) rejoint le pack.
+- **Cahier v38** (25 sept. 2026) : DOI [10.5281/zenodo.22945763](https://doi.org/10.5281/zenodo.22945763)
+  Addendum XLVI : injection_zeta. Clôture de la Direction Spectrale par un refus publié. Le test d'injection des 9 premiers zéros de zêta échoue globalement ($R^2_{in} = -0,23$) malgré une validation croisée positive ($R^2_{pred} = +0,52$). Le paradoxe révèle que les pics haut-t sont des résonances transitoires (non-stationnarité), et non un cristal rigide phase-verrouillé. La frontière du prouvable est tracée. Le compagnon injection_zeta.py (35ᵉ) rejoint le pack. Verrou v4.12 (35 invocations).
+- **Cahier v39** (25 sept. 2026) : DOI [10.5281/zenodo.22950183](https://doi.org/10.5281/zenodo.22950183)
+  Addendum XLVII : note de clôture de la Direction Spectrale (non-stationnarité mesurée) +
+  erratum textuel de la garde G2 de l'Addendum XLVI (blocs contigus K=5, critère médian).
+  Évaluation externe III publiée : le paradoxe R²_in = -0,23 / R²_pred = +0,52 est lu comme
+  une non-stationnarité orientée en échelle du résidu de C1. La Direction Spectrale
+  (XXXIV–XLVI) est close par clarification, non par refus. Pas de compagnon nouveau.
 
 ## Soumission académique
 

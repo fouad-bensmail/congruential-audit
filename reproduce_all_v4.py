@@ -7,7 +7,7 @@
 # =============================================================================
 """
 reproduce_all_v4.py — le script maitre, quatrieme edition (le Verrou).
-Rejoue les 20 fichiers compagnons de l'edifice en 23 invocations, capture
+Rejoue les 31 fichiers compagnons de l'edifice en 34 invocations, capture
 chaque sortie, lit chaque garde, et rend un verdict unique.
 
 Correction v4.1 : la liste blanche des drapeaux connus (obstruction_mod12,
@@ -57,8 +57,9 @@ SCRIPTS = [
     ("grammaire_dyadique.py", [], "Addendum XLII"),
     ("enchevetrement_modules.py", [], "Addendum XLIII"),
     ("carte_dyadique.py", [], "Addendum XLIV"),
+    ("null_stratifie.py", [], "Addendum XLV"),
+    ("injection_zeta.py", [], "Addendum XLVI"),
 ]
-
 
 def detecter_verdict(sortie):
     s = sortie.lower()
@@ -72,6 +73,8 @@ def est_drapeau_connu(chemin, args):
         return True
     if chemin == "obstruction_modM.py" and args and args[0] == "30":
         return True
+    if chemin == "injection_zeta.py":
+        return True  # refus publié du cristal phase-verrouillé, XLVI
     return False
 
 
